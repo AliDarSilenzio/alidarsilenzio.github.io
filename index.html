@@ -97,7 +97,7 @@ const I18N={
       aboutText:"Ogni audiolibro parte da una ricerca accurata sull'argomento, che poi adattiamo a un testo pensato per l'ascolto: l'«edizione spiegata». I concetti vengono raccontati con chiarezza, le sigle sciolte, gli esempi resi vivi per l'orecchio. La voce è generata con Kokoro, una sintesi vocale di nuova generazione, calda e naturale (la voce italiana è «Nicola»). Niente studio, niente microfono: solo ricerca, scrittura e tecnologia, con cura artigianale.",
       proposeTitle:"🎙️ Cosa vorrebbe ascoltare la tua mente?",
       proposeText:"Proponi un argomento — o un personaggio che ti affascina — e, se la tua idea ci conquista, diventerà un vero video di AliDar: creato apposta, con ricerca e voce. Lascia il tuo nome (o soprannome) e l'email: ti avviseremo quando il tuo video sarà pronto.",
-      proposeBtn:"💬 Proponi un tema nei commenti del canale", feedbackBtn:"📝 Lascia un feedback su YouTube",
+      proposeBtn:"📝 Proponi un tema (compila il modulo)", feedbackBtn:"💬 Feedback sul canale",
       footer:"audiolibri di saggezza e suoni per il benessere.", privacy:"Privacy", nores:"Nessun risultato." },
  en:{ sub:"Subscribe to the channel", searchPh:"Search a book, a chapter, a theme…",
       heroTitle:"Audiobooks & sounds for the mind",
@@ -110,7 +110,7 @@ const I18N={
       aboutText:"Every audiobook starts from careful research on the topic, which we then adapt into a text made for listening: the «explained edition». Ideas are told clearly, acronyms spelled out, examples brought to life for the ear. The voice is generated with Kokoro, a new-generation, warm and natural text-to-speech (the English voice is «Michael»). No studio, no microphone: just research, writing and technology, crafted with care.",
       proposeTitle:"🎙️ What is your mind longing to hear?",
       proposeText:"Suggest a topic — or a figure that captivates you. If your idea wins us over, it becomes a real AliDar video: crafted just for it, with research and a voice of its own. Your curiosity writes our next story. Leave your name (or nickname) and email, and we'll let you know when your video is ready.",
-      proposeBtn:"💬 Suggest a topic in the channel comments", feedbackBtn:"📝 Leave feedback on YouTube",
+      proposeBtn:"📝 Suggest a topic (fill the form)", feedbackBtn:"💬 Feedback on the channel",
       footer:"wisdom audiobooks and sounds for wellbeing.", privacy:"Privacy", nores:"No results." }
 };
 // descrizioni per collezione (per parola chiave)
@@ -141,7 +141,8 @@ function setLang(l){ LANG=l; document.documentElement.lang=l;
   document.getElementById('proposeBtn').textContent=I18N[l].proposeBtn;
   document.getElementById('feedbackBtn').textContent=I18N[l].feedbackBtn;
   const cu=(window.ALIDAR_CHANNEL||{}).url||"https://www.youtube.com/@alidar-d6s";
-  document.getElementById('proposeBtn').href=cu+"/community";
+  const FORM_URL="https://docs.google.com/forms/d/e/1FAIpQLSfmFzsGFHehFQ7RbjrRwshAIo6_URt7MXUO3YQ0xOd5kkuOkg/viewform";
+  document.getElementById('proposeBtn').href=FORM_URL;
   document.getElementById('feedbackBtn').href=cu;
   document.getElementById('search').placeholder=I18N[l].searchPh;
   render();
