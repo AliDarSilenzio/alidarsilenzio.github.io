@@ -55,9 +55,26 @@
   <section class="hero">
     <h1 id="heroTitle"></h1>
     <p id="heroText"></p>
+    <p id="evolveNote" style="margin-top:14px;color:#c9a227;font-size:15px"></p>
   </section>
   <input class="search" id="search" oninput="render()" />
   <div id="list"></div>
+
+  <section style="margin:36px 0">
+    <div style="background:var(--panel);border:1px solid var(--stroke);border-radius:16px;padding:22px 24px">
+      <h2 id="aboutTitle" style="margin-top:0;color:var(--accent)"></h2>
+      <p id="aboutText" style="color:var(--dim);font-size:15px"></p>
+    </div>
+  </section>
+
+  <section style="margin:24px 0 10px">
+    <div style="background:var(--panel);border:1px solid var(--stroke);border-radius:16px;padding:22px 24px;text-align:center">
+      <h2 id="proposeTitle" style="margin-top:0"></h2>
+      <p id="proposeText" style="color:var(--dim);font-size:15px;max-width:680px;margin:0 auto 16px"></p>
+      <a class="btn" id="proposeBtn" target="_blank" style="display:inline-block;margin:4px"></a>
+      <a class="btn" id="feedbackBtn" target="_blank" style="display:inline-block;margin:4px"></a>
+    </div>
+  </section>
 </div>
 
 <footer class="wrap">
@@ -75,6 +92,12 @@ const I18N={
       openPl:"Apri la playlist su YouTube ▶", chapters:"capitoli", listen:"ascolta",
       audioIt:"", audioMusic:"🎵 Solo musica", audioEn:"🇬🇧 Audio in inglese",
       comingSoon:"Presto nuovi titoli. Per ora goditi i suoni binaurali (senza lingua).",
+      evolve:"🌱 Sito e video sono in continua evoluzione: aggiungiamo titoli, lingue e contenuti di continuo. Torna a trovarci.",
+      aboutTitle:"Come nasce AliDar",
+      aboutText:"Ogni audiolibro parte da una ricerca accurata sull'argomento, che poi adattiamo a un testo pensato per l'ascolto: l'«edizione spiegata». I concetti vengono raccontati con chiarezza, le sigle sciolte, gli esempi resi vivi per l'orecchio. La voce è generata con Kokoro, una sintesi vocale di nuova generazione, calda e naturale (la voce italiana è «Nicola»). Niente studio, niente microfono: solo ricerca, scrittura e tecnologia, con cura artigianale.",
+      proposeTitle:"💡 Proponi un tema",
+      proposeText:"Sei un iscritto e vorresti un audiolibro o una ricerca su un argomento che ti sta a cuore? Proponilo: i temi più richiesti diventeranno veri audio, con ricerca e voce, che creeremo e caricheremo sul canale. Le tue idee danno forma ad AliDar.",
+      proposeBtn:"💬 Proponi un tema nei commenti del canale", feedbackBtn:"📝 Lascia un feedback su YouTube",
       footer:"audiolibri di saggezza e suoni per il benessere.", privacy:"Privacy", nores:"Nessun risultato." },
  en:{ sub:"Subscribe to the channel", searchPh:"Search a book, a chapter, a theme…",
       heroTitle:"Audiobooks & sounds for the mind",
@@ -82,6 +105,12 @@ const I18N={
       openPl:"Open the playlist on YouTube ▶", chapters:"chapters", listen:"listen",
       audioIt:"🇮🇹 Audio in Italian", audioMusic:"🎵 Music — no narration", audioEn:"",
       comingSoon:"🇬🇧 English audiobooks are coming soon. For now, enjoy the binaural sounds (no language needed).",
+      evolve:"🌱 The site and videos are constantly evolving: we keep adding titles, languages and content. Come back often.",
+      aboutTitle:"How AliDar is made",
+      aboutText:"Every audiobook starts from careful research on the topic, which we then adapt into a text made for listening: the «explained edition». Ideas are told clearly, acronyms spelled out, examples brought to life for the ear. The voice is generated with Kokoro, a new-generation, warm and natural text-to-speech (the English voice is «Michael»). No studio, no microphone: just research, writing and technology, crafted with care.",
+      proposeTitle:"💡 Suggest a topic",
+      proposeText:"Are you a subscriber who'd love an audiobook or some research on a topic close to your heart? Suggest it: the most requested topics will become real audio, with research and voice, that we'll create and upload to the channel. Your ideas shape AliDar.",
+      proposeBtn:"💬 Suggest a topic in the channel comments", feedbackBtn:"📝 Leave feedback on YouTube",
       footer:"wisdom audiobooks and sounds for wellbeing.", privacy:"Privacy", nores:"No results." }
 };
 // descrizioni per collezione (per parola chiave)
@@ -104,6 +133,16 @@ function setLang(l){ LANG=l; document.documentElement.lang=l;
   document.querySelectorAll('[data-i]').forEach(e=>e.textContent=I18N[l][e.getAttribute('data-i')]);
   document.getElementById('heroTitle').textContent=I18N[l].heroTitle;
   document.getElementById('heroText').textContent=I18N[l].heroText;
+  document.getElementById('evolveNote').textContent=I18N[l].evolve;
+  document.getElementById('aboutTitle').textContent=I18N[l].aboutTitle;
+  document.getElementById('aboutText').textContent=I18N[l].aboutText;
+  document.getElementById('proposeTitle').textContent=I18N[l].proposeTitle;
+  document.getElementById('proposeText').textContent=I18N[l].proposeText;
+  document.getElementById('proposeBtn').textContent=I18N[l].proposeBtn;
+  document.getElementById('feedbackBtn').textContent=I18N[l].feedbackBtn;
+  const cu=(window.ALIDAR_CHANNEL||{}).url||"https://www.youtube.com/@alidar-d6s";
+  document.getElementById('proposeBtn').href=cu+"/community";
+  document.getElementById('feedbackBtn').href=cu;
   document.getElementById('search').placeholder=I18N[l].searchPh;
   render();
 }
