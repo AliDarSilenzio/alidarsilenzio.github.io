@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AliDar — Audiolibri & Suoni per la mente | Audiobooks & Sounds for the mind</title>
+<meta name="description" content="AliDar: audiolibri di saggezza (Patañjali, Dhammapada), benessere, sonno e suoni binaurali. Voce calma, edizione spiegata. Wisdom audiobooks and calming sounds.">
+<style>
+  :root{ --bg:#0e1016; --panel:#161a24; --stroke:#2a3040; --text:#e8ecf6; --dim:#8a93a8; --accent:#c9a227; }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,Segoe UI,Roboto,Georgia,serif;line-height:1.6}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1000px;margin:0 auto;padding:0 18px}
+  header{position:sticky;top:0;background:rgba(14,16,22,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--stroke);z-index:10}
+  .bar{display:flex;align-items:center;gap:14px;padding:12px 0}
+  .logo{font-size:22px;font-weight:700;letter-spacing:1px}
+  .logo .moon{color:#f2e9c8}
+  .grow{flex:1}
+  .btn{border:1px solid var(--stroke);background:var(--panel);color:var(--text);padding:8px 14px;border-radius:10px;cursor:pointer;font-size:14px}
+  .btn.sub{background:#c0392b;border-color:#c0392b;font-weight:700}
+  .lang{display:flex;gap:4px}
+  .lang button.active{background:var(--accent);color:#1a1500;border-color:var(--accent);font-weight:700}
+  .hero{padding:46px 0 22px;text-align:center}
+  .hero h1{font-size:34px;margin:.2em 0}
+  .hero p{color:var(--dim);max-width:680px;margin:0 auto;font-size:17px}
+  .search{display:block;width:100%;margin:22px 0;padding:14px 16px;border-radius:12px;border:1px solid var(--stroke);background:var(--panel);color:var(--text);font-size:16px}
+  .card{background:var(--panel);border:1px solid var(--stroke);border-radius:16px;margin:16px 0;overflow:hidden}
+  .card .head{display:flex;align-items:center;gap:14px;padding:18px 20px;cursor:pointer;border-left:6px solid var(--accent)}
+  .card .head h2{margin:0;font-size:20px}
+  .card .head .meta{color:var(--dim);font-size:14px}
+  .card .desc{color:var(--dim);padding:0 20px 6px 20px;font-size:15px}
+  .vids{display:none;padding:6px 20px 18px 20px}
+  .vids.open{display:block}
+  .vid{display:flex;align-items:center;gap:10px;padding:9px 0;border-top:1px solid var(--stroke)}
+  .vid .n{color:var(--dim);font-size:13px;min-width:30px}
+  .vid a{flex:1}
+  .vid .play{color:#ff5252;font-size:13px}
+  .open-pl{display:inline-block;margin:4px 20px 16px;color:var(--accent);font-weight:700;font-size:14px}
+  footer{border-top:1px solid var(--stroke);margin-top:40px;padding:24px 0;color:var(--dim);font-size:13px;text-align:center}
+  .hide{display:none}
+</style>
+</head>
+<body>
+<header><div class="wrap bar">
+  <div class="logo"><span class="moon">☾</span> AliDar</div>
+  <div class="grow"></div>
+  <div class="lang">
+    <button id="it" class="active" onclick="setLang('it')">IT</button>
+    <button id="en" onclick="setLang('en')">EN</button>
+  </div>
+  <a class="btn sub" id="subBtn" target="_blank">▶ <span data-i="sub"></span></a>
+</div></header>
+
+<div class="wrap">
+  <section class="hero">
+    <h1 id="heroTitle"></h1>
+    <p id="heroText"></p>
+  </section>
+  <input class="search" id="search" oninput="render()" />
+  <div id="list"></div>
+</div>
+
+<footer class="wrap">
+  <p>☾ AliDar — <span data-i="footer"></span></p>
+  <p><a href="privacy.html" data-i="privacy" style="color:var(--accent)"></a> · <a id="subBtn2" target="_blank" style="color:var(--accent)">YouTube</a></p>
+  <p style="opacity:.6">© 2026 AliDar · Dario Amabile (ALIDÙ)</p>
+</footer>
+
+<script src="data.js"></script>
+<script>
+const I18N={
+ it:{ sub:"Iscriviti al canale", searchPh:"Cerca un libro, un capitolo, un tema…",
+      heroTitle:"Audiolibri e suoni per la mente",
+      heroText:"AliDar raccoglie audiolibri di saggezza, benessere e sonno, raccontati con voce calma nell'«edizione spiegata», e suoni binaurali per rilassarsi. Tutto il canale, in ordine, con i link per ascoltare.",
+      openPl:"Apri la playlist su YouTube ▶", chapters:"capitoli", listen:"ascolta",
+      audioIt:"", audioMusic:"🎵 Solo musica", audioEn:"🇬🇧 Audio in inglese",
+      comingSoon:"Presto nuovi titoli. Per ora goditi i suoni binaurali (senza lingua).",
+      footer:"audiolibri di saggezza e suoni per il benessere.", privacy:"Privacy", nores:"Nessun risultato." },
+ en:{ sub:"Subscribe to the channel", searchPh:"Search a book, a chapter, a theme…",
+      heroTitle:"Audiobooks & sounds for the mind",
+      heroText:"AliDar collects wisdom, wellbeing and sleep audiobooks, told in a calm voice in the «explained edition», plus binaural sounds for relaxation. The whole channel, organized, with links to listen.",
+      openPl:"Open the playlist on YouTube ▶", chapters:"chapters", listen:"listen",
+      audioIt:"🇮🇹 Audio in Italian", audioMusic:"🎵 Music — no narration", audioEn:"",
+      comingSoon:"🇬🇧 English audiobooks are coming soon. For now, enjoy the binaural sounds (no language needed).",
+      footer:"wisdom audiobooks and sounds for wellbeing.", privacy:"Privacy", nores:"No results." }
+};
+// descrizioni per collezione (per parola chiave)
+const DESC={
+ radici:{it:"Dall'ipnosi al silenzio profondo: un viaggio nella mente e nella quiete.",en:"From hypnosis to deep silence: a journey into the mind and stillness."},
+ sonno:{it:"La scienza e l'arte del riposo, raccontate per addormentarsi sereni.",en:"The science and art of rest, told to help you fall asleep peacefully."},
+ corpo:{it:"Il linguaggio del corpo: capire gli altri e se stessi oltre le parole.",en:"Body language: understanding others and ourselves beyond words."},
+ medicina:{it:"Medicina di genere: perché donne e uomini si ammalano e guariscono diversamente.",en:"Gender medicine: why women and men get ill and heal differently."},
+ patañjali:{it:"Gli Yoga Sūtra di Patañjali: ogni sutra spiegato per l'ascolto.",en:"Patañjali's Yoga Sutra: every sutra explained for listening."},
+ patanjali:{it:"Gli Yoga Sūtra di Patañjali: ogni sutra spiegato per l'ascolto.",en:"Patañjali's Yoga Sutra: every sutra explained for listening."},
+ dhammapada:{it:"I versi del Buddha, spiegati con semplicità.",en:"The verses of the Buddha, explained simply."},
+ relax:{it:"Onde binaurali e suoni per dormire, rilassarsi e meditare.",en:"Binaural waves and sounds to sleep, relax and meditate."}
+};
+let LANG="it";
+function descFor(t){ t=t.toLowerCase(); if(t.includes('relax')) return DESC.relax[LANG]; for(const k in DESC){ if(t.includes(k)) return DESC[k][LANG]; } return ""; }
+function cleanTitle(t){ return t.replace(/—\s*Edizione Spiegata\s*\(AliDar\)/i,"").replace(/\(AliDar\)/i,"").replace(/·/g,"·").trim(); }
+function setLang(l){ LANG=l; document.documentElement.lang=l;
+  document.getElementById('it').classList.toggle('active',l=='it');
+  document.getElementById('en').classList.toggle('active',l=='en');
+  document.querySelectorAll('[data-i]').forEach(e=>e.textContent=I18N[l][e.getAttribute('data-i')]);
+  document.getElementById('heroTitle').textContent=I18N[l].heroTitle;
+  document.getElementById('heroText').textContent=I18N[l].heroText;
+  document.getElementById('search').placeholder=I18N[l].searchPh;
+  render();
+}
+function render(){
+  const q=(document.getElementById('search').value||"").toLowerCase();
+  const list=document.getElementById('list'); list.innerHTML="";
+  let any=false;
+  const hasLangBooks=(window.ALIDAR_DATA||[]).some(c=>c.audio===LANG);
+  if(!hasLangBooks){ const b=document.createElement('div'); b.style.cssText='background:var(--panel);border:1px solid var(--stroke);border-radius:12px;padding:16px 18px;color:var(--dim);margin:6px 0 12px'; b.textContent=I18N[LANG].comingSoon; list.appendChild(b); }
+  (window.ALIDAR_DATA||[]).forEach((c,ci)=>{
+    if(!(c.audio===LANG || c.audio==='music')) return;   // FILTRO LINGUA: EN mostra solo EN (+musica), IT solo IT (+musica)
+    const vmatch=c.videos.filter(v=>!q || v.title.toLowerCase().includes(q));
+    const cmatch=!q || c.playlist.toLowerCase().includes(q);
+    if(!cmatch && vmatch.length===0) return;
+    any=true;
+    const vids = (cmatch && !q)? c.videos : (q? vmatch : c.videos);
+    const card=document.createElement('div'); card.className='card';
+    const plUrl="https://www.youtube.com/playlist?list="+c.id;
+    let ctitle;
+    if(c.audio==='music') ctitle=(LANG==='en' && c.title_en)? c.title_en : cleanTitle(c.playlist);   // musica: titolo localizzato
+    else if(c.audio==='en' && c.title_en) ctitle=c.title_en;                                          // libri inglesi: titolo EN
+    else ctitle=cleanTitle(c.playlist);                                                               // libri italiani: titolo IT sempre
+    const badge = c.audio==='music'? I18N[LANG].audioMusic : (c.audio==='en'? I18N[LANG].audioEn : I18N[LANG].audioIt);
+    card.innerHTML=`
+      <div class="head" style="border-left-color:${c.color}" onclick="this.parentElement.querySelector('.vids').classList.toggle('open')">
+        <div><h2>${ctitle}</h2>
+        <div class="meta">${vids.length} ${I18N[LANG].chapters}${badge? ' · '+badge : ''}</div></div>
+      </div>
+      <div class="desc">${descFor(c.playlist)}</div>
+      <a class="open-pl" href="${plUrl}" target="_blank" style="color:${c.color}">${I18N[LANG].openPl}</a>
+      <div class="vids ${q?'open':''}">
+        ${vids.map((v,i)=>`<div class="vid"><span class="n">${i+1}</span>
+           <a href="https://youtu.be/${v.id}" target="_blank">${cleanTitle(v.title)}</a>
+           <a class="play" href="https://youtu.be/${v.id}" target="_blank">▶ ${I18N[LANG].listen}</a></div>`).join("")}
+      </div>`;
+    list.appendChild(card);
+  });
+  if(!any){ list.innerHTML=`<p style="color:var(--dim);text-align:center;padding:30px">${I18N[LANG].nores}</p>`; }
+}
+// link canale
+const ch=window.ALIDAR_CHANNEL||{url:"https://www.youtube.com/@alidar-d6s"};
+document.getElementById('subBtn').href=ch.url+"?sub_confirmation=1";
+document.getElementById('subBtn2').href=ch.url;
+setLang('it');
+</script>
+</body>
+</html>
