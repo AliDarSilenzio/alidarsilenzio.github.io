@@ -1,0 +1,1176 @@
+{
+ "version": 2,
+ "updatedAt": "2026-06-07",
+ "collane": [
+  {
+   "id": "corpo",
+   "titolo": "Il linguaggio del corpo",
+   "titoloEn": "Body Language",
+   "lingua": "it",
+   "colore": "#c0392b",
+   "artworkUrl": "https://i.ytimg.com/vi/I2p5-5ZLR2E/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "corpo-01",
+     "num": 1,
+     "titolo": "Da dove nasce il linguaggio del corpo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-01.mp3",
+     "youtubeId": "I2p5-5ZLR2E",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-02",
+     "num": 2,
+     "titolo": "Anche gli animali parlano col corpo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-02.mp3",
+     "youtubeId": "ruT7AdnXup4",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-03",
+     "num": 3,
+     "titolo": "Il volto e le emozioni di tutti",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-03.mp3",
+     "youtubeId": "5q2KJS8v4iQ",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-04",
+     "num": 4,
+     "titolo": "Le microespressioni, lampi di verità",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-04.mp3",
+     "youtubeId": "wO6qzh3GmxU",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-05",
+     "num": 5,
+     "titolo": "Lo spazio invisibile attorno a noi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-05.mp3",
+     "youtubeId": "lKreXzPHmuQ",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-06",
+     "num": 6,
+     "titolo": "Il mito del novantatré per cento",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-06.mp3",
+     "youtubeId": "FZmDZ6Q3rJ4",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-07",
+     "num": 7,
+     "titolo": "Il corpo che decide prima di te",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-07.mp3",
+     "youtubeId": "J0Awqs_0rrQ",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-08",
+     "num": 8,
+     "titolo": "I gesti: cosa è innato e cosa impariamo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-08.mp3",
+     "youtubeId": "g1uduX-mG8I",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-09",
+     "num": 9,
+     "titolo": "Lo sguardo che si condivide",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-09.mp3",
+     "youtubeId": "BvYRwoP7C2w",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-10",
+     "num": 10,
+     "titolo": "Leggere le persone senza accusarle",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-10.mp3",
+     "youtubeId": "54eCkvqrWCg",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-11",
+     "num": 11,
+     "titolo": "Si può smascherare una bugia?",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-11.mp3",
+     "youtubeId": "NDW_H2-2kPU",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-12",
+     "num": 12,
+     "titolo": "Leggere il comportamento: il profiling",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-12.mp3",
+     "youtubeId": "DGuluEhnR5E",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-13",
+     "num": 13,
+     "titolo": "La postura che cambia come ti senti",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-13.mp3",
+     "youtubeId": "hmqjpTkfWJg",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-14",
+     "num": 14,
+     "titolo": "Il dialogo silenzioso con gli animali",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-14.mp3",
+     "youtubeId": "N-Myi7fMOxs",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-15",
+     "num": 15,
+     "titolo": "Quando il corpo non si lascia leggere",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-15.mp3",
+     "youtubeId": "aPDF9NGjQp4",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-16",
+     "num": 16,
+     "titolo": "Il linguaggio del corpo nell'era digitale",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-16.mp3",
+     "youtubeId": "xwSUQAQdWSM",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-17",
+     "num": 17,
+     "titolo": "Comunicare attraverso uno schermo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-17.mp3",
+     "youtubeId": "-G9C6xknHaU",
+     "durataSec": 0
+    },
+    {
+     "id": "corpo-18",
+     "num": 18,
+     "titolo": "Il futuro: macchine che leggono il corpo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/corpo-cap-18.mp3",
+     "youtubeId": "J2StdLWyBEs",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "radici",
+   "titolo": "Le radici del silenzio",
+   "titoloEn": "The Roots of Silence",
+   "lingua": "it",
+   "colore": "#2fae5e",
+   "artworkUrl": "https://i.ytimg.com/vi/PSG-F51reP4/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "radici-01",
+     "num": 1,
+     "titolo": "Mesmer e il fluido invisibile",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-01.mp3",
+     "youtubeId": "PSG-F51reP4",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-02",
+     "num": 2,
+     "titolo": "Quando l'ipnosi diventa osservazione",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-02.mp3",
+     "youtubeId": "QLw5_IAo3TY",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-03",
+     "num": 3,
+     "titolo": "Da Freud a Spiegel: l'ipnosi diventa scienza",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-03.mp3",
+     "youtubeId": "f1bOH2PfXTY",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-04",
+     "num": 4,
+     "titolo": "Patañjali e gli Yoga Sūtra",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-04.mp3",
+     "youtubeId": "C0tTv6PqL14",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-05",
+     "num": 5,
+     "titolo": "Buddha, Vipassana, Zen",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-05.mp3",
+     "youtubeId": "SPB-Cfg86TQ",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-06",
+     "num": 6,
+     "titolo": "Esicasmo e Sufismo, due silenzi monoteisti",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-06.mp3",
+     "youtubeId": "0lceXV91_kQ",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-07",
+     "num": 7,
+     "titolo": "Quattro fondatori, un'esperienza",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-07.mp3",
+     "youtubeId": "rxXwi_OL3Hw",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-08",
+     "num": 8,
+     "titolo": "Le altre sorgenti del silenzio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-08.mp3",
+     "youtubeId": "FxrqCLw3n8Q",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-09",
+     "num": 9,
+     "titolo": "Il silenzio dei santi e dei mistici cristiani",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-09.mp3",
+     "youtubeId": "FblP4rpSpQY",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-10",
+     "num": 10,
+     "titolo": "Rasputin, Gandhi, Hitler: tre sguardi, tre destini",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-10.mp3",
+     "youtubeId": "XjAh5i3a71c",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-11",
+     "num": 11,
+     "titolo": "L'anatomia della cattura",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-11.mp3",
+     "youtubeId": "M5OEbQQQDFw",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-12",
+     "num": 12,
+     "titolo": "Krishnamurti: la verità è una terra senza sentieri",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-12.mp3",
+     "youtubeId": "VC9-roLn-FM",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-13",
+     "num": 13,
+     "titolo": "L'osservatore è l'osservato",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-13.mp3",
+     "youtubeId": "B5dOvrcHFBo",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-14",
+     "num": 14,
+     "titolo": "La neuroscienza del vuoto mentale",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-14.mp3",
+     "youtubeId": "rTXf5gv-XwY",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-15",
+     "num": 15,
+     "titolo": "Lo sguardo che ipnotizza",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-15.mp3",
+     "youtubeId": "MRb9yCLk4tM",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-16",
+     "num": 16,
+     "titolo": "Il corpo che obbedisce",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-16.mp3",
+     "youtubeId": "6XCPOM_p-3I",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-17",
+     "num": 17,
+     "titolo": "Il medico come testimone del silenzio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-17.mp3",
+     "youtubeId": "7OeBSIJf6sk",
+     "durataSec": 0
+    },
+    {
+     "id": "radici-18",
+     "num": 18,
+     "titolo": "Quando cade l'io, cade il confine di specie",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/radici-cap-18.mp3",
+     "youtubeId": "64Zs3VZn9Wg",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "medicina",
+   "titolo": "Medicina di genere",
+   "titoloEn": "Gender Medicine",
+   "lingua": "it",
+   "colore": "#8a5cff",
+   "artworkUrl": "https://i.ytimg.com/vi/9KH8byEQmUo/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "medicina-01",
+     "num": 1,
+     "titolo": "Yentl Syndrome",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-01.mp3",
+     "youtubeId": "9KH8byEQmUo",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-02",
+     "num": 2,
+     "titolo": "Il talidomide e i 30 anni di esclusione",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-02.mp3",
+     "youtubeId": "wq8I_SO4dBk",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-03",
+     "num": 3,
+     "titolo": "XX vs XY",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-03.mp3",
+     "youtubeId": "xICHAFqazaY",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-04",
+     "num": 4,
+     "titolo": "Estrogeni e testosterone",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-04.mp3",
+     "youtubeId": "PBKzbLycffQ",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-05",
+     "num": 5,
+     "titolo": "Out of Africa, ibridazione, dimorfismo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-05.mp3",
+     "youtubeId": "2uKr82P7u7I",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-06",
+     "num": 6,
+     "titolo": "Animali e modelli",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-06.mp3",
+     "youtubeId": "rCkRSppawlc",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-07",
+     "num": 7,
+     "titolo": "Farmacocinetica al femminile",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-07.mp3",
+     "youtubeId": "EdMhDIFuuOE",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-08",
+     "num": 8,
+     "titolo": "Zolpidem, aspirina, SSRI",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-08.mp3",
+     "youtubeId": "J55yZ12s-SQ",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-09",
+     "num": 9,
+     "titolo": "Cuore di donna, cuore d'uomo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-09.mp3",
+     "youtubeId": "De06BGF6YvM",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-10",
+     "num": 10,
+     "titolo": "Cervello e dolore",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-10.mp3",
+     "youtubeId": "sksMEQSRciQ",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-11",
+     "num": 11,
+     "titolo": "Alzheimer, depressione, schizofrenia",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-11.mp3",
+     "youtubeId": "XaVJZq9cl7w",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-12",
+     "num": 12,
+     "titolo": "Sistema immunitario",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-12.mp3",
+     "youtubeId": "bLXwjbTeLAY",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-13",
+     "num": 13,
+     "titolo": "Oncologia di genere",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-13.mp3",
+     "youtubeId": "Hqg0DSXTa40",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-14",
+     "num": 14,
+     "titolo": "Metabolismo, ossa, fegato, polmoni, reni",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-14.mp3",
+     "youtubeId": "nbv5kuHLj44",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-15",
+     "num": 15,
+     "titolo": "Trans, intersex, LGBTQIA+",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-15.mp3",
+     "youtubeId": "uGbIqL9yRjs",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-16",
+     "num": 16,
+     "titolo": "AI, organoidi, precision medicine",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-16.mp3",
+     "youtubeId": "Ll6xe-zuSL0",
+     "durataSec": 0
+    },
+    {
+     "id": "medicina-17",
+     "num": 17,
+     "titolo": "Il Cervello di CLAUDE",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/medicina-cap-17.mp3",
+     "youtubeId": "FZvGmOh2Ero",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "gesu",
+   "titolo": "Gesù di Nazaret",
+   "titoloEn": "Jesus of Nazareth & the Gospels",
+   "lingua": "it",
+   "colore": "#22a3ad",
+   "artworkUrl": "https://i.ytimg.com/vi/DD-Um4Cb9Xo/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "gesu-01",
+     "num": 1,
+     "titolo": "L'epoca e il mondo di Gesù",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-01.mp3",
+     "youtubeId": "DD-Um4Cb9Xo",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-02",
+     "num": 2,
+     "titolo": "La vita di Gesù, parte prima: dalle origini al battesimo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-02.mp3",
+     "youtubeId": "uW-K5OgFk9s",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-03",
+     "num": 3,
+     "titolo": "La vita di Gesù, parte seconda: il Regno e i suoi segni",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-03.mp3",
+     "youtubeId": "g12khD0DhNo",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-04",
+     "num": 4,
+     "titolo": "Gesù di Nazaret e i Vangeli — Cap. 4: La vita di Gesù, parte terza: Gerusalemme, la croce, la risurr",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-04.mp3",
+     "youtubeId": "6nV1v4eTE3s",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-05",
+     "num": 5,
+     "titolo": "I quattro Vangeli: cosa sono e come sono nati",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-05.mp3",
+     "youtubeId": "QlY04c-c9bs",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-06",
+     "num": 6,
+     "titolo": "Le Beatitudini",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-06.mp3",
+     "youtubeId": "2CvN9deb-Cg",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-07",
+     "num": 7,
+     "titolo": "Il Discorso della Montagna",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-07.mp3",
+     "youtubeId": "58DHGr9pINs",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-08",
+     "num": 8,
+     "titolo": "Le parabole del Regno",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-08.mp3",
+     "youtubeId": "aJ18LTcMnr4",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-09",
+     "num": 9,
+     "titolo": "Le parabole della misericordia",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-09.mp3",
+     "youtubeId": "O7USWwhvlLM",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-10",
+     "num": 10,
+     "titolo": "I miracoli e il loro senso",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-10.mp3",
+     "youtubeId": "Et2Qz1I84L0",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-11",
+     "num": 11,
+     "titolo": "Gli incontri: Gesù e gli ultimi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-11.mp3",
+     "youtubeId": "QSFMlUH2kNI",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-12",
+     "num": 12,
+     "titolo": "La Passione e le parole dalla croce",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-12.mp3",
+     "youtubeId": "5eu_Dl1J_c8",
+     "durataSec": 0
+    },
+    {
+     "id": "gesu-13",
+     "num": 13,
+     "titolo": "La risurrezione e il messaggio che cambiò il mondo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/gesu-cap-13.mp3",
+     "youtubeId": "MQ5TAeAmdfI",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "dhammapada",
+   "titolo": "Dhammapada",
+   "titoloEn": "Dhammapada · The Buddha",
+   "lingua": "it",
+   "colore": "#d6457f",
+   "artworkUrl": "https://i.ytimg.com/vi/_0K7pwcir4s/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "dhammapada-01",
+     "num": 1,
+     "titolo": "Il Buddha e le coppie di versi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-01.mp3",
+     "youtubeId": "_0K7pwcir4s",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-02",
+     "num": 2,
+     "titolo": "La vigilanza e la mente",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-02.mp3",
+     "youtubeId": "alOxU6q-hHI",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-03",
+     "num": 3,
+     "titolo": "I fiori e lo stolto",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-03.mp3",
+     "youtubeId": "ZRzNUdLwp50",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-04",
+     "num": 4,
+     "titolo": "Il saggio e il liberato",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-04.mp3",
+     "youtubeId": "n-96C_Qfloc",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-05",
+     "num": 5,
+     "titolo": "Le migliaia e il male",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-05.mp3",
+     "youtubeId": "-kNK7I9hO2o",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-06",
+     "num": 6,
+     "titolo": "La violenza e la vecchiaia",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-06.mp3",
+     "youtubeId": "CmxwKhpChPw",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-07",
+     "num": 7,
+     "titolo": "Se stessi e il mondo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-07.mp3",
+     "youtubeId": "X7sk-n3kuYM",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-08",
+     "num": 8,
+     "titolo": "Il Buddha e la felicità",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-08.mp3",
+     "youtubeId": "YWRI8PjOuW4",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-09",
+     "num": 9,
+     "titolo": "L'affetto e la collera",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-09.mp3",
+     "youtubeId": "ChS5qn5fzG8",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-10",
+     "num": 10,
+     "titolo": "Le impurità e il vero giusto",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-10.mp3",
+     "youtubeId": "dCX6rnlyJZM",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-11",
+     "num": 11,
+     "titolo": "La Via",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-11.mp3",
+     "youtubeId": "dxYypCGwQho",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-12",
+     "num": 12,
+     "titolo": "L'elefante e la sete",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-12.mp3",
+     "youtubeId": "HW_YO4uFPJY",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-13",
+     "num": 13,
+     "titolo": "Il vero ricercatore e il vero nobile",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-cap-13.mp3",
+     "youtubeId": "Pgsd5KeB0Yo",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "patanjali",
+   "titolo": "Patañjali",
+   "titoloEn": "Patañjali · The Yoga Sutra",
+   "lingua": "it",
+   "colore": "#c9a227",
+   "artworkUrl": "https://i.ytimg.com/vi/qnsJzmZ4gmc/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "patanjali-01",
+     "num": 1,
+     "titolo": "Lo yoga è l'acquietarsi dei movimenti della mente — Cap. 1: Cos'è lo yoga e i cinque movimenti della",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-01.mp3",
+     "youtubeId": "qnsJzmZ4gmc",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-02",
+     "num": 2,
+     "titolo": "La pratica e il lasciar andare",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-02.mp3",
+     "youtubeId": "yTe8yrAZgP4",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-03",
+     "num": 3,
+     "titolo": "Lo yoga è l'acquietarsi dei movimenti della mente — Cap. 3: Il sacro, il suono Om e i rimedi agli os",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-03.mp3",
+     "youtubeId": "Jtbq9woN81s",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-04",
+     "num": 4,
+     "titolo": "Lo yoga è l'acquietarsi dei movimenti della mente — Cap. 4: La mente come cristallo e i gradi della",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-04.mp3",
+     "youtubeId": "QWFCilq0L28",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-05",
+     "num": 5,
+     "titolo": "Le cinque radici della sofferenza",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-05.mp3",
+     "youtubeId": "EiFfSaD1WRo",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-06",
+     "num": 6,
+     "titolo": "Lo yoga è l'acquietarsi dei movimenti della mente — Cap. 6: La causa del dolore e la via che libera",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-06.mp3",
+     "youtubeId": "mXX--y-EEYg",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-07",
+     "num": 7,
+     "titolo": "Gli otto rami: l'etica e la disciplina",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-07.mp3",
+     "youtubeId": "o06BzIEFL6I",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-08",
+     "num": 8,
+     "titolo": "Lo yoga è l'acquietarsi dei movimenti della mente — Cap. 8: La postura, il respiro e il ritiro dei s",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-08.mp3",
+     "youtubeId": "2_0Se5gzXH8",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-09",
+     "num": 9,
+     "titolo": "Concentrazione, meditazione e unione",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-09.mp3",
+     "youtubeId": "g44ouea_IT0",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-10",
+     "num": 10,
+     "titolo": "Le potenze della mente raccolta",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-10.mp3",
+     "youtubeId": "wMU8eeelUWc",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-11",
+     "num": 11,
+     "titolo": "Lo yoga è l'acquietarsi dei movimenti della mente — Cap. 11: Le potenze più alte e la soglia della l",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-11.mp3",
+     "youtubeId": "sSdrYhHbU18",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-12",
+     "num": 12,
+     "titolo": "La mente, le sue tracce e la realtà",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-12.mp3",
+     "youtubeId": "kFVtsjCKLbM",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-13",
+     "num": 13,
+     "titolo": "La liberazione",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-cap-13.mp3",
+     "youtubeId": "CA8Q_-fPs7U",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "sonno",
+   "titolo": "Il Sonno",
+   "titoloEn": "Sleep",
+   "lingua": "it",
+   "colore": "#2f6fae",
+   "artworkUrl": "https://i.ytimg.com/vi/9P-dsesPvhs/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "sonno-01",
+     "num": 1,
+     "titolo": "Cos'è davvero il sonno",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-01.mp3",
+     "youtubeId": "9P-dsesPvhs",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-02",
+     "num": 2,
+     "titolo": "L'orologio nella tua testa",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-02.mp3",
+     "youtubeId": "HzJdCI3RTqA",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-03",
+     "num": 3,
+     "titolo": "Luce, melatonina e la chimica del buio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-03.mp3",
+     "youtubeId": "R57aahdpIj8",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-04",
+     "num": 4,
+     "titolo": "Pressione ed equilibrio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-04.mp3",
+     "youtubeId": "ukVZVVR29hQ",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-05",
+     "num": 5,
+     "titolo": "L'interruttore del sonno",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-05.mp3",
+     "youtubeId": "QBMbrb11QCE",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-06",
+     "num": 6,
+     "titolo": "Il cervello che ricorda nel sonno",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-06.mp3",
+     "youtubeId": "1F7exYyOdoA",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-07",
+     "num": 7,
+     "titolo": "Il cervello che si lava",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-07.mp3",
+     "youtubeId": "p6tGpJtQ48w",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-08",
+     "num": 8,
+     "titolo": "Quando il sonno si rompe",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-08.mp3",
+     "youtubeId": "F1eyEIjb3S8",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-09",
+     "num": 9,
+     "titolo": "Il sonno nelle età della vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-09.mp3",
+     "youtubeId": "RZi9t2PAxQs",
+     "durataSec": 0
+    },
+    {
+     "id": "sonno-10",
+     "num": 10,
+     "titolo": "Sonno, salute e frontiere",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/sonno-cap-10.mp3",
+     "youtubeId": "VUc5iQLCzmo",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "krishnamurti",
+   "titolo": "Jiddu Krishnamurti",
+   "titoloEn": "Krishnamurti · The Pathless Truth",
+   "lingua": "it",
+   "colore": "#6c7082",
+   "artworkUrl": "https://i.ytimg.com/vi/doHHc-PVUOA/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "krishnamurti-01",
+     "num": 1,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 1: La vita, parte prima: il bambino",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-01.mp3",
+     "youtubeId": "doHHc-PVUOA",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-02",
+     "num": 2,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 2: La vita, parte seconda: il peso",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-02.mp3",
+     "youtubeId": "VYl0x9QXDHM",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-03",
+     "num": 3,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 3: La vita, parte terza: la verità",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-03.mp3",
+     "youtubeId": "LuRiBs-tkSw",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-04",
+     "num": 4,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 4: La vita, parte quarta: l'uomo li",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-04.mp3",
+     "youtubeId": "o5Lpx2C3vZI",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-05",
+     "num": 5,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 5: La verità è una terra senza sent",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-05.mp3",
+     "youtubeId": "cnStIoL08U4",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-06",
+     "num": 6,
+     "titolo": "Il condizionamento",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-06.mp3",
+     "youtubeId": "o8r3xIrnG8k",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-07",
+     "num": 7,
+     "titolo": "Il pensiero e il tempo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-07.mp3",
+     "youtubeId": "K2pE8DaPLKg",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-08",
+     "num": 8,
+     "titolo": "La paura",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-08.mp3",
+     "youtubeId": "FN-rmFI8CKg",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-09",
+     "num": 9,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 9: Il desiderio, il piacere, l'atta",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-09.mp3",
+     "youtubeId": "wxkiTvEHtB4",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-10",
+     "num": 10,
+     "titolo": "L'osservatore è l'osservato",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-10.mp3",
+     "youtubeId": "d0KhuJ6n9ow",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-11",
+     "num": 11,
+     "titolo": "Il conflitto e la divisione",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-11.mp3",
+     "youtubeId": "rRZyUYvMMXs",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-12",
+     "num": 12,
+     "titolo": "La relazione e l'amore",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-12.mp3",
+     "youtubeId": "5pXkvu0aZu0",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-13",
+     "num": 13,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 13: La meditazione, il sacro, la li",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-13.mp3",
+     "youtubeId": "awL7ksjbnGk",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-14",
+     "num": 14,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 14: I dialoghi con David Bohm: due",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-14.mp3",
+     "youtubeId": "_RupJ9WW_2c",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-15",
+     "num": 15,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 15: «Ciò che è» e l'ideale: la fine",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-15.mp3",
+     "youtubeId": "0j81SykC_Pg",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-16",
+     "num": 16,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 16: Il dolore e la fine del dolore",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-16.mp3",
+     "youtubeId": "A0uzSSaCj3o",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-17",
+     "num": 17,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 17: L'intelligenza, l'intuizione, l",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-17.mp3",
+     "youtubeId": "VEk8wt_gITo",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-18",
+     "num": 18,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 18: La conoscenza, il cervello e i",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-18.mp3",
+     "youtubeId": "SeRbvf8MJgY",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-19",
+     "num": 19,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 19: L'energia, l'attenzione, la pas",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-19.mp3",
+     "youtubeId": "dXbZTsW4Yw4",
+     "durataSec": 0
+    },
+    {
+     "id": "krishnamurti-20",
+     "num": 20,
+     "titolo": "Jiddu Krishnamurti — la verità è una terra senza sentieri — Cap. 20: La mente religiosa, la creazion",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/krishnamurti-cap-20.mp3",
+     "youtubeId": "Me1q2Yk7EJM",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "patanjali-en",
+   "titolo": "Patanjali - The Yoga Sutra",
+   "titoloEn": "Patanjali · The Yoga Sutra",
+   "lingua": "en",
+   "colore": "#c9a227",
+   "artworkUrl": "https://i.ytimg.com/vi/PI35GCBGd3A/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "patanjali-en-01",
+     "num": 1,
+     "titolo": "What yoga is, and the five movements of the mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-01.mp3",
+     "youtubeId": "PI35GCBGd3A",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-02",
+     "num": 2,
+     "titolo": "Practice and letting go",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-02.mp3",
+     "youtubeId": "cI-oHjMxEig",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-03",
+     "num": 3,
+     "titolo": "Patanjali - The Yoga Sutra (Explained) - Ch. 3: The sacred, the sound Om, and the remedies to the ob",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-03.mp3",
+     "youtubeId": "CHy2U9vZU00",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-04",
+     "num": 4,
+     "titolo": "Patanjali - The Yoga Sutra (Explained) - Ch. 4: The mind as a crystal, and the degrees of stillness",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-04.mp3",
+     "youtubeId": "qS_4ozP67vc",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-05",
+     "num": 5,
+     "titolo": "The five roots of suffering",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-05.mp3",
+     "youtubeId": "nc34mFkLX3E",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-06",
+     "num": 6,
+     "titolo": "The cause of pain and the path that frees",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-06.mp3",
+     "youtubeId": "wK-Pq-40pXI",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-07",
+     "num": 7,
+     "titolo": "The eight limbs: ethics and discipline",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-07.mp3",
+     "youtubeId": "ep_05HNQILU",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-08",
+     "num": 8,
+     "titolo": "Posture, breath, and the withdrawal of the senses",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-08.mp3",
+     "youtubeId": "gcPj-21-33I",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-09",
+     "num": 9,
+     "titolo": "Concentration, meditation, and union",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-09.mp3",
+     "youtubeId": "tgJfpczqYS8",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-10",
+     "num": 10,
+     "titolo": "The powers of the gathered mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-10.mp3",
+     "youtubeId": "qyikHpPEiOc",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-11",
+     "num": 11,
+     "titolo": "The higher powers and the threshold of freedom",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-11.mp3",
+     "youtubeId": "wS7wOnpvkhA",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-12",
+     "num": 12,
+     "titolo": "The mind, its traces, and reality",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-12.mp3",
+     "youtubeId": "e0I3bgxArlU",
+     "durataSec": 0
+    },
+    {
+     "id": "patanjali-en-13",
+     "num": 13,
+     "titolo": "Liberation",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/patanjali-en-cap-13.mp3",
+     "youtubeId": "rVswTOK6YWg",
+     "durataSec": 0
+    }
+   ]
+  }
+ ]
+}
