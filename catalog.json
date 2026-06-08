@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2010,6 +2010,56 @@
      "titolo": "Leggerezza, umorismo e libertà",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-19.mp3",
      "youtubeId": "LQdDhQbkGRQ",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-20",
+     "num": 20,
+     "titolo": "L'eredità di Zhuangzi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-20.mp3",
+     "youtubeId": "92loF_VHOFg",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "zhuangzi-en",
+   "titolo": "Zhuangzi - Taoist Sage",
+   "titoloEn": "Zhuangzi · The Taoist Sage",
+   "lingua": "en",
+   "colore": "#3a4696",
+   "artworkUrl": "https://i.ytimg.com/vi/VMNGBC9zoVM/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "zhuangzi-en-01",
+     "num": 1,
+     "titolo": "Zhuangzi - The Taoist Sage of Emptiness (Explained) - Ch. 1: Who Zhuangzi Was and the World of the T",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-01.mp3",
+     "youtubeId": "VMNGBC9zoVM",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-02",
+     "num": 2,
+     "titolo": "The Butterfly Dream",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-02.mp3",
+     "youtubeId": "54aw-RX8mM8",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-03",
+     "num": 3,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-03.mp3",
+     "youtubeId": "-JjUjkmc5KE",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-04",
+     "num": 4,
+     "titolo": "Sitting and Forgetting",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-04.mp3",
+     "youtubeId": "HrDjLJZx8ns",
      "durataSec": 0
     }
    ]
