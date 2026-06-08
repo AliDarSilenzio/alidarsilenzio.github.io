@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -1914,6 +1914,102 @@
      "titolo": "La parità di tutte le cose",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-07.mp3",
      "youtubeId": "_onQJz5ShYo",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-08",
+     "num": 8,
+     "titolo": "I limiti delle parole e delle dispute",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-08.mp3",
+     "youtubeId": "qfSGPCS6o5E",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-09",
+     "num": 9,
+     "titolo": "Il respiro dell'uomo vero",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-09.mp3",
+     "youtubeId": "TmVH0ai5sE8",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-10",
+     "num": 10,
+     "titolo": "Wu wei, il non-agire",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-10.mp3",
+     "youtubeId": "_gw6VgNvAS8",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-11",
+     "num": 11,
+     "titolo": "Vivere secondo natura (ziran)",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-11.mp3",
+     "youtubeId": "FNyiGqZ64YQ",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-12",
+     "num": 12,
+     "titolo": "La morte e la grande trasformazione",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-12.mp3",
+     "youtubeId": "2FV16OIXhVQ",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-13",
+     "num": 13,
+     "titolo": "La gioia dei pesci",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-13.mp3",
+     "youtubeId": "tqhof6MkOJY",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-14",
+     "num": 14,
+     "titolo": "Gli uomini realizzati",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-14.mp3",
+     "youtubeId": "snnLYN_72AQ",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-15",
+     "num": 15,
+     "titolo": "La mente come uno specchio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-15.mp3",
+     "youtubeId": "3Bnwm79nl8c",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-16",
+     "num": 16,
+     "titolo": "Sciogliere la dualità",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-16.mp3",
+     "youtubeId": "BM_oqY-I2rU",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-17",
+     "num": 17,
+     "titolo": "Fermare la mente che etichetta",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-17.mp3",
+     "youtubeId": "ApG2t_Hp6a4",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-18",
+     "num": 18,
+     "titolo": "Le tecniche del vuoto applicate oggi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-18.mp3",
+     "youtubeId": "Iga8hjjh9_Y",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-19",
+     "num": 19,
+     "titolo": "Leggerezza, umorismo e libertà",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-19.mp3",
+     "youtubeId": "LQdDhQbkGRQ",
      "durataSec": 0
     }
    ]
