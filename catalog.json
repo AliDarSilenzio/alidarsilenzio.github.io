@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2084,6 +2084,94 @@
      "titolo": "The Equality of All Things",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-07.mp3",
      "youtubeId": "N4p2J4aoFk0",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-08",
+     "num": 8,
+     "titolo": "The Limits of Words and Arguments",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-08.mp3",
+     "youtubeId": "EE9vh9gqmIo",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-09",
+     "num": 9,
+     "titolo": "The Breath of the True Man",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-09.mp3",
+     "youtubeId": "PMQkFdDVnMw",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-10",
+     "num": 10,
+     "titolo": "Wu Wei, Non-Doing",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-10.mp3",
+     "youtubeId": "Zy3FnVclyH4",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-11",
+     "num": 11,
+     "titolo": "Living According to Nature",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-11.mp3",
+     "youtubeId": "2ck09lJ7O5Q",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-12",
+     "num": 12,
+     "titolo": "Death and the Great Transformation",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-12.mp3",
+     "youtubeId": "TAkJ89VKsEg",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-13",
+     "num": 13,
+     "titolo": "The Happiness of the Fish",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-13.mp3",
+     "youtubeId": "m0ZBUj7t_OQ",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-14",
+     "num": 14,
+     "titolo": "The Realized Ones",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-14.mp3",
+     "youtubeId": "cdulTGSg3G4",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-15",
+     "num": 15,
+     "titolo": "The Mind Like a Mirror",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-15.mp3",
+     "youtubeId": "1RNUmQStISE",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-16",
+     "num": 16,
+     "titolo": "Dissolving Duality",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-16.mp3",
+     "youtubeId": "sYfuyE1zTdM",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-17",
+     "num": 17,
+     "titolo": "Stopping the Labeling Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-17.mp3",
+     "youtubeId": "Wi2X3YV9I3s",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-18",
+     "num": 18,
+     "titolo": "Zhuangzi - The Taoist Sage of Emptiness (Explained) - Ch. 18: The Techniques of Emptiness Applied To",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-18.mp3",
+     "youtubeId": "e1LnjQn2bHU",
      "durataSec": 0
     }
    ]
