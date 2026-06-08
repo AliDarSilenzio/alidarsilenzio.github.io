@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2060,6 +2060,30 @@
      "titolo": "Sitting and Forgetting",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-04.mp3",
      "youtubeId": "HrDjLJZx8ns",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-05",
+     "num": 5,
+     "titolo": "Zhuangzi - The Taoist Sage of Emptiness (Explained) - Ch. 5: Cook Ding and the Art of Effortlessness",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-05.mp3",
+     "youtubeId": "Z4kRm7iKNRk",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-06",
+     "num": 6,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-06.mp3",
+     "youtubeId": "LfaX5QOpbSg",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-07",
+     "num": 7,
+     "titolo": "The Equality of All Things",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-07.mp3",
+     "youtubeId": "N4p2J4aoFk0",
      "durataSec": 0
     }
    ]
