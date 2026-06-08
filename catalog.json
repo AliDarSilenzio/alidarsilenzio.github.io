@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -1760,6 +1760,160 @@
      "titolo": "Arunachala, the Sacred Mountain",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-09.mp3",
      "youtubeId": "jbJD1EH04-0",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-10",
+     "num": 10,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-10.mp3",
+     "youtubeId": "csWIEYodoxA",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-11",
+     "num": 11,
+     "titolo": "How to Practice Self-Inquiry, Step by Step",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-11.mp3",
+     "youtubeId": "qgfNfz_24Ac",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-12",
+     "num": 12,
+     "titolo": "Where the \"I\" Arises: The Heart",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-12.mp3",
+     "youtubeId": "OzjknnWi1ow",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-13",
+     "num": 13,
+     "titolo": "The Twin Path: Self-Surrender",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-13.mp3",
+     "youtubeId": "YYjq0UpDwQo",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-14",
+     "num": 14,
+     "titolo": "What the Self Is",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-14.mp3",
+     "youtubeId": "s25u0E9I2a4",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-15",
+     "num": 15,
+     "titolo": "Silence as the Highest Teaching",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-15.mp3",
+     "youtubeId": "3-hOybQcDFA",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-16",
+     "num": 16,
+     "titolo": "Dissolving Duality: The Seer and the Seen",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-16.mp3",
+     "youtubeId": "RFnljBNWiwE",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-17",
+     "num": 17,
+     "titolo": "Stopping Discursive Thought",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-17.mp3",
+     "youtubeId": "mYt5AnzLL14",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-18",
+     "num": 18,
+     "titolo": "Inquiry in Everyday Life",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-18.mp3",
+     "youtubeId": "N4Yu4yYkpQw",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-19",
+     "num": 19,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-19.mp3",
+     "youtubeId": "qFWOBOZKKrU",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-20",
+     "num": 20,
+     "titolo": "The Death of Ramana and His Legacy",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-20.mp3",
+     "youtubeId": "SixK91smKlY",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "zhuangzi",
+   "titolo": "Zhuangzi",
+   "titoloEn": "Zhuangzi · The Taoist Sage",
+   "lingua": "it",
+   "colore": "#3a4696",
+   "artworkUrl": "https://i.ytimg.com/vi/xLTCIKMSsbk/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "zhuangzi-01",
+     "num": 1,
+     "titolo": "Chi è Zhuangzi e il mondo del Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-01.mp3",
+     "youtubeId": "xLTCIKMSsbk",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-02",
+     "num": 2,
+     "titolo": "Il sogno della farfalla",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-02.mp3",
+     "youtubeId": "hcyg5rlD9uE",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-03",
+     "num": 3,
+     "titolo": "Il digiuno del cuore-mente",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-03.mp3",
+     "youtubeId": "mMhW6nEbwvw",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-04",
+     "num": 4,
+     "titolo": "Sedere e dimenticare",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-04.mp3",
+     "youtubeId": "Rp0xbBcsRaM",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-05",
+     "num": 5,
+     "titolo": "Il cuoco Ding e l'arte del non-sforzo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-05.mp3",
+     "youtubeId": "eRfwIbGfzig",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-06",
+     "num": 6,
+     "titolo": "L'utilità dell'inutile",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-06.mp3",
+     "youtubeId": "APNCGMgG7Qg",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-07",
+     "num": 7,
+     "titolo": "La parità di tutte le cose",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-cap-07.mp3",
+     "youtubeId": "_onQJz5ShYo",
      "durataSec": 0
     }
    ]
