@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2294,6 +2294,112 @@
      "titolo": "La natura della mente e l'illusione dell'io separato",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-06.mp3",
      "youtubeId": "y4hw550iwVk",
+     "durataSec": 0
+    }
+   ]
+  },
+  {
+   "id": "shankara",
+   "titolo": "Adi Shankara",
+   "titoloEn": "Adi Shankara · Non-Duality",
+   "lingua": "it",
+   "colore": "#aa6e28",
+   "artworkUrl": "https://i.ytimg.com/vi/ySYZReyj51U/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "shankara-01",
+     "num": 1,
+     "titolo": "Chi e Adi Shankara e perche parla al silenzio della mente",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-01.mp3",
+     "youtubeId": "ySYZReyj51U",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-02",
+     "num": 2,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 2: Le origini, parte prima: nascita e formazione di un bambino fuori",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-02.mp3",
+     "youtubeId": "EyEY0W-hbDs",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-03",
+     "num": 3,
+     "titolo": "La svolta, l'incontro con il maestro e la nascita di un'opera",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-03.mp3",
+     "youtubeId": "ONV7odfLmHU",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-04",
+     "num": 4,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 4: Le origini, parte terza: la maturita, la diffusione e i discepoli",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-04.mp3",
+     "youtubeId": "3rqywuvoLHs",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-05",
+     "num": 5,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 5: Il mondo attorno a Shankara, figure, luoghi e l'eredita immediata",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-05.mp3",
+     "youtubeId": "ZNWyhh13G-I",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-06",
+     "num": 6,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 6: Il cuore dell'insegnamento, parte prima: i concetti fondamentali",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-06.mp3",
+     "youtubeId": "LJ_Y591q2os",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-07",
+     "num": 7,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 7: Il cuore dell'insegnamento, parte seconda: la visione della realt",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-07.mp3",
+     "youtubeId": "-Q-56LVG5xs",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-08",
+     "num": 8,
+     "titolo": "La natura della mente e l'illusione dell'io separato",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-08.mp3",
+     "youtubeId": "FjMKFZv2pak",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-09",
+     "num": 9,
+     "titolo": "Neti neti, scartare ogni cosa finche resta solo il testimone",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-09.mp3",
+     "youtubeId": "WuThzQHfj6k",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-10",
+     "num": 10,
+     "titolo": "La tecnica pratica, parte prima: neti neti passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-10.mp3",
+     "youtubeId": "RfHOO0G7Fo4",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-11",
+     "num": 11,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 11: La tecnica pratica, parte seconda: approfondire il neti neti e l",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-11.mp3",
+     "youtubeId": "akDlZpPoazQ",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-12",
+     "num": 12,
+     "titolo": "Respiro, attenzione e corpo nella pratica",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-12.mp3",
+     "youtubeId": "yy7jGt-xKuw",
      "durataSec": 0
     }
    ]
