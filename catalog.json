@@ -1,5 +1,5 @@
 {
- "version": 18,
+ "version": 19,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2998,6 +2998,30 @@
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 7: Il cuore dell'insegnamento, parte seconda, la visio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-07.mp3",
      "youtubeId": "e-LsfY_V3Mg",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-08",
+     "num": 8,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 8: La natura della mente e l'illusione dell'io separat",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-08.mp3",
+     "youtubeId": "wYt_kWfLUdo",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-09",
+     "num": 9,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 9: Il risveglio improvviso e lo specchio senza polvere",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-09.mp3",
+     "youtubeId": "B5R8VBq7srA",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-10",
+     "num": 10,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 10: La tecnica pratica, parte prima: sedersi senza ins",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-10.mp3",
+     "youtubeId": "ruHJ8P078ks",
      "durataSec": 0
     }
    ]
