@@ -1,5 +1,5 @@
 {
- "version": 16,
+ "version": 17,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2966,6 +2966,22 @@
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 3: La svolta nascosta, la trasmissione segreta del Dha",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-03.mp3",
      "youtubeId": "pOaMY0MCI78",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-04",
+     "num": 4,
+     "titolo": "La maturità nascosta e la nascita di una scuola",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-04.mp3",
+     "youtubeId": "E6YU3RIUyg0",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-05",
+     "num": 5,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 5: Il mondo attorno a Huineng, figure, luoghi ed eredi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-05.mp3",
+     "youtubeId": "zicu_oStva4",
      "durataSec": 0
     }
    ]
