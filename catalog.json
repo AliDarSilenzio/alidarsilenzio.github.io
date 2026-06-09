@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2739,6 +2739,30 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-en-cap-16.mp3",
      "youtubeId": "AaXvens3108",
      "durataSec": 0
+    },
+    {
+     "id": "shankara-en-17",
+     "num": 17,
+     "titolo": "The Practice in Everyday Life",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-en-cap-17.mp3",
+     "youtubeId": "FXE2lrVzaY4",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-en-18",
+     "num": 18,
+     "titolo": "Adi Shankara - Not This, Not This (Explained) - Ch. 19: Misunderstandings, Balance, and Discernment",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-en-cap-18.mp3",
+     "youtubeId": "21h5pY36gEE",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-en-19",
+     "num": 19,
+     "titolo": "Adi Shankara - Not This, Not This (Explained) - Ch. 20: The Legacy of Adi Shankara and What It Leave",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-en-cap-19.mp3",
+     "youtubeId": "zXf6QV63iAo",
+     "durataSec": 0
     }
    ]
   },
@@ -2911,6 +2935,15 @@
      "durataSec": 0
     }
    ]
+  },
+  {
+   "id": "huineng",
+   "titolo": "Huineng",
+   "titoloEn": "Huineng · The Sixth Patriarch",
+   "lingua": "it",
+   "colore": "#1e6e5a",
+   "artworkUrl": "",
+   "tracce": []
   }
  ]
 }
