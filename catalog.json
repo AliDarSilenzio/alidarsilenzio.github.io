@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2982,6 +2982,22 @@
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 5: Il mondo attorno a Huineng, figure, luoghi ed eredi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-05.mp3",
      "youtubeId": "zicu_oStva4",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-06",
+     "num": 6,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-06.mp3",
+     "youtubeId": "2lTU8dbvq7Q",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-07",
+     "num": 7,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 7: Il cuore dell'insegnamento, parte seconda, la visio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-07.mp3",
+     "youtubeId": "e-LsfY_V3Mg",
      "durataSec": 0
     }
    ]
