@@ -1,5 +1,5 @@
 {
- "version": 19,
+ "version": 20,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -3022,6 +3022,30 @@
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 10: La tecnica pratica, parte prima: sedersi senza ins",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-10.mp3",
      "youtubeId": "ruHJ8P078ks",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-11",
+     "num": 11,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 11: La tecnica pratica, parte seconda: il non,pensiero",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-11.mp3",
+     "youtubeId": "V3yaQpOC-K8",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-12",
+     "num": 12,
+     "titolo": "Respiro, attenzione e corpo nella pratica",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-12.mp3",
+     "youtubeId": "3SOh3nXeSDY",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-13",
+     "num": 13,
+     "titolo": "Gli ostacoli interiori e come attraversarli",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-13.mp3",
+     "youtubeId": "SLkXfQx5l-U",
      "durataSec": 0
     }
    ]
