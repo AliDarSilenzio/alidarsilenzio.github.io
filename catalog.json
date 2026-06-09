@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2270,6 +2270,30 @@
      "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-03.mp3",
      "youtubeId": "jFNWymeuk14",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-04",
+     "num": 4,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-04.mp3",
+     "youtubeId": "rvyI_-DuaoI",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-05",
+     "num": 5,
+     "titolo": "Il mondo attorno a Laozi: figure, luoghi ed eredita immediata",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-05.mp3",
+     "youtubeId": "B6lTuAI233I",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-06",
+     "num": 6,
+     "titolo": "La natura della mente e l'illusione dell'io separato",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-06.mp3",
+     "youtubeId": "y4hw550iwVk",
      "durataSec": 0
     }
    ]
