@@ -1,5 +1,5 @@
 {
- "version": 15,
+ "version": 16,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -1683,7 +1683,7 @@
     {
      "id": "ramana-21",
      "num": 21,
-     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-21.mp3",
      "youtubeId": "44x-Q8KiDfA",
      "durataSec": 0
@@ -1861,7 +1861,7 @@
     {
      "id": "ramana-en-21",
      "num": 21,
-     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-21.mp3",
      "youtubeId": "losBat72Td8",
      "durataSec": 0
@@ -1869,7 +1869,7 @@
     {
      "id": "ramana-en-22",
      "num": 22,
-     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-22.mp3",
      "youtubeId": "mbwRMkWy4rc",
      "durataSec": 0
@@ -1877,7 +1877,7 @@
     {
      "id": "ramana-en-23",
      "num": 23,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-23.mp3",
      "youtubeId": "rMl6zGa0YSQ",
      "durataSec": 0
@@ -2225,7 +2225,7 @@
     {
      "id": "zhuangzi-en-21",
      "num": 21,
-     "titolo": "The Fasting of the Heart-Mind",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-21.mp3",
      "youtubeId": "cyzx6JlT9Z0",
      "durataSec": 0
@@ -2233,7 +2233,7 @@
     {
      "id": "zhuangzi-en-22",
      "num": 22,
-     "titolo": "The Usefulness of the Useless",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-22.mp3",
      "youtubeId": "MLT2X8IUDbA",
      "durataSec": 0
@@ -2299,7 +2299,7 @@
     {
      "id": "laozi-07",
      "num": 7,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-07.mp3",
      "youtubeId": "4mBpm8t7P-c",
      "durataSec": 0
@@ -2307,7 +2307,7 @@
     {
      "id": "laozi-08",
      "num": 8,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-08.mp3",
      "youtubeId": "-nmjy9WdG9Y",
      "durataSec": 0
@@ -2315,7 +2315,7 @@
     {
      "id": "laozi-09",
      "num": 9,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Deleted video",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-09.mp3",
      "youtubeId": "stAc0vZVXa4",
      "durataSec": 0
@@ -2942,8 +2942,33 @@
    "titoloEn": "Huineng · The Sixth Patriarch",
    "lingua": "it",
    "colore": "#1e6e5a",
-   "artworkUrl": "",
-   "tracce": []
+   "artworkUrl": "https://i.ytimg.com/vi/cjrtY_XQCYA/hqdefault.jpg",
+   "tracce": [
+    {
+     "id": "huineng-01",
+     "num": 1,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 1: Chi è Huineng e perché parla al silenzio della ment",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-01.mp3",
+     "youtubeId": "cjrtY_XQCYA",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-02",
+     "num": 2,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 2: Le origini, parte prima: un bambino povero ai confi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-02.mp3",
+     "youtubeId": "qRd4hE3pZcA",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-03",
+     "num": 3,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 3: La svolta nascosta, la trasmissione segreta del Dha",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-03.mp3",
+     "youtubeId": "pOaMY0MCI78",
+     "durataSec": 0
+    }
+   ]
   }
  ]
 }
