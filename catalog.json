@@ -1,5 +1,5 @@
 {
- "version": 21,
+ "version": 22,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2974,6 +2974,14 @@
      "titolo": "Gli ostacoli interiori e come attraversarli",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-13.mp3",
      "youtubeId": "SLkXfQx5l-U",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-18",
+     "num": 18,
+     "titolo": "La pratica nella vita di oggi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-18.mp3",
+     "youtubeId": "sP-JHD-u3o0",
      "durataSec": 0
     }
    ]
