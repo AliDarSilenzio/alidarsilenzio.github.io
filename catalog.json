@@ -1,5 +1,5 @@
 {
- "version": 22,
+ "version": 23,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -1679,6 +1679,14 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-20.mp3",
      "youtubeId": "qZYbu8iF3PA",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-21",
+     "num": 21,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-21.mp3",
+     "youtubeId": "ghP03KENBc0",
+     "durataSec": 0
     }
    ]
   },
@@ -1848,6 +1856,30 @@
      "titolo": "The Death of Ramana and His Legacy",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-20.mp3",
      "youtubeId": "SixK91smKlY",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-21",
+     "num": 21,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-21.mp3",
+     "youtubeId": "hFYLW9QXN20",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-22",
+     "num": 22,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-22.mp3",
+     "youtubeId": "MGd0R3xom3w",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-23",
+     "num": 23,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-23.mp3",
+     "youtubeId": "VtdICYatcUo",
      "durataSec": 0
     }
    ]
@@ -2189,6 +2221,22 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-20.mp3",
      "youtubeId": "0mqzTodPe1o",
      "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-21",
+     "num": 21,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-21.mp3",
+     "youtubeId": "oZDFHFQYFEM",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-22",
+     "num": 22,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-22.mp3",
+     "youtubeId": "Wnl_iHNjNLg",
+     "durataSec": 0
     }
    ]
   },
@@ -2243,25 +2291,25 @@
     {
      "id": "laozi-06",
      "num": 6,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 6: Il cuore dell'insegnamento, parte prima: il Tao, il vuoto e il non",
+     "titolo": "La natura della mente e l'illusione dell'io separato",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-06.mp3",
-     "youtubeId": "KRqbCCTX_uo",
+     "youtubeId": "y4hw550iwVk",
      "durataSec": 0
     },
     {
      "id": "laozi-07",
      "num": 7,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 7: Il cuore dell'insegnamento, parte seconda: la visione della realta",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 6: Il cuore dell'insegnamento, parte prima: il Tao, il vuoto e il non",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-07.mp3",
-     "youtubeId": "qN7b3BpFTv0",
+     "youtubeId": "KRqbCCTX_uo",
      "durataSec": 0
     },
     {
      "id": "laozi-08",
      "num": 8,
-     "titolo": "La natura della mente e l'illusione dell'io separato",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 7: Il cuore dell'insegnamento, parte seconda: la visione della realta",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-08.mp3",
-     "youtubeId": "y4hw550iwVk",
+     "youtubeId": "qN7b3BpFTv0",
      "durataSec": 0
     },
     {
@@ -2358,6 +2406,38 @@
      "titolo": "L'eredita di Laozi e cosa ci lascia oggi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-20.mp3",
      "youtubeId": "UirwoTXlxGo",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-21",
+     "num": 21,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-21.mp3",
+     "youtubeId": "apkDlFMKYCg",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-22",
+     "num": 22,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-22.mp3",
+     "youtubeId": "H5EauCbHUrY",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-23",
+     "num": 23,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-23.mp3",
+     "youtubeId": "vcHGVMQ_JXo",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-24",
+     "num": 24,
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-24.mp3",
+     "youtubeId": "Ui5b4Ubjnws",
      "durataSec": 0
     }
    ]
