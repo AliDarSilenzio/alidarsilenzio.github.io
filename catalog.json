@@ -1,5 +1,5 @@
 {
- "version": 26,
+ "version": 27,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2483,25 +2483,25 @@
     {
      "id": "laozi-06",
      "num": 6,
-     "titolo": "La natura della mente e l'illusione dell'io separato",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 6: Il cuore dell'insegnamento, parte prima: il Tao, il vuoto e il non",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-06.mp3",
-     "youtubeId": "y4hw550iwVk",
+     "youtubeId": "KRqbCCTX_uo",
      "durataSec": 0
     },
     {
      "id": "laozi-07",
      "num": 7,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 6: Il cuore dell'insegnamento, parte prima: il Tao, il vuoto e il non",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 7: Il cuore dell'insegnamento, parte seconda: la visione della realta",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-07.mp3",
-     "youtubeId": "KRqbCCTX_uo",
+     "youtubeId": "qN7b3BpFTv0",
      "durataSec": 0
     },
     {
      "id": "laozi-08",
      "num": 8,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 7: Il cuore dell'insegnamento, parte seconda: la visione della realta",
+     "titolo": "La natura della mente e l'illusione dell'io separato",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-08.mp3",
-     "youtubeId": "qN7b3BpFTv0",
+     "youtubeId": "y4hw550iwVk",
      "durataSec": 0
     },
     {
@@ -2598,46 +2598,6 @@
      "titolo": "L'eredita di Laozi e cosa ci lascia oggi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-20.mp3",
      "youtubeId": "UirwoTXlxGo",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-21",
-     "num": 21,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-21.mp3",
-     "youtubeId": "Ui5b4Ubjnws",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-22",
-     "num": 22,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-22.mp3",
-     "youtubeId": "9wnsiCUOxQY",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-23",
-     "num": 23,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-23.mp3",
-     "youtubeId": "Br2KUhqyPBM",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-24",
-     "num": 24,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-24.mp3",
-     "youtubeId": "hQY9gP2k0rI",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-25",
-     "num": 25,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-25.mp3",
-     "youtubeId": "Z3RIL9MLcEo",
      "durataSec": 0
     }
    ]
@@ -3153,193 +3113,49 @@
     {
      "id": "laozi-en-21",
      "num": 21,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-21.mp3",
-     "youtubeId": "YlokqUyhmCk",
+     "youtubeId": "rTjGStrOzG8",
      "durataSec": 0
     },
     {
      "id": "laozi-en-22",
      "num": 22,
-     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-22.mp3",
-     "youtubeId": "HkOK46Wzv-E",
+     "youtubeId": "-_1ecFsuyRM",
      "durataSec": 0
     },
     {
      "id": "laozi-en-23",
      "num": 23,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
+     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-23.mp3",
-     "youtubeId": "rTjGStrOzG8",
+     "youtubeId": "P92L6tHpEzI",
      "durataSec": 0
     },
     {
      "id": "laozi-en-24",
      "num": 24,
-     "titolo": "Breath, Attention, and the Body in Practice",
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-24.mp3",
-     "youtubeId": "ystluyaqpJQ",
+     "youtubeId": "VtqcPvGeU6Y",
      "durataSec": 0
     },
     {
      "id": "laozi-en-25",
      "num": 25,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
+     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-25.mp3",
-     "youtubeId": "wk-Ud0fHAyE",
+     "youtubeId": "-flP8CwITA8",
      "durataSec": 0
     },
     {
      "id": "laozi-en-26",
      "num": 26,
-     "titolo": "Misunderstandings, Balance, and Discernment",
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-26.mp3",
-     "youtubeId": "fOD6l4clYAg",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-27",
-     "num": 27,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-27.mp3",
-     "youtubeId": "ZoKkahTJ7ls",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-28",
-     "num": 28,
-     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-28.mp3",
-     "youtubeId": "dR7TtTuyeIo",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-29",
-     "num": 29,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-29.mp3",
-     "youtubeId": "-_1ecFsuyRM",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-30",
-     "num": 30,
-     "titolo": "Breath, Attention, and the Body in Practice",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-30.mp3",
-     "youtubeId": "Sv0eQUEy6ls",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-31",
-     "num": 31,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-31.mp3",
-     "youtubeId": "z1HE-sDiZSY",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-32",
-     "num": 32,
-     "titolo": "Misunderstandings, Balance, and Discernment",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-32.mp3",
-     "youtubeId": "lwxh07Xo1g4",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-33",
-     "num": 33,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-33.mp3",
-     "youtubeId": "HW7TxZpNM-M",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-34",
-     "num": 34,
-     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-34.mp3",
-     "youtubeId": "P92L6tHpEzI",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-35",
-     "num": 35,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-35.mp3",
-     "youtubeId": "VtqcPvGeU6Y",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-36",
-     "num": 36,
-     "titolo": "Breath, Attention, and the Body in Practice",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-36.mp3",
-     "youtubeId": "Eh9s4R3-9Ik",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-37",
-     "num": 37,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-37.mp3",
-     "youtubeId": "q2f5AaVAWYw",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-38",
-     "num": 38,
-     "titolo": "Misunderstandings, Balance, and Discernment",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-38.mp3",
-     "youtubeId": "fW48DOCQiNQ",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-39",
-     "num": 39,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-39.mp3",
-     "youtubeId": "CwybCUUdLJ0",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-40",
-     "num": 40,
-     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-40.mp3",
-     "youtubeId": "-flP8CwITA8",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-41",
-     "num": 41,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-41.mp3",
      "youtubeId": "2WJoiXzfT_E",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-42",
-     "num": 42,
-     "titolo": "Breath, Attention, and the Body in Practice",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-42.mp3",
-     "youtubeId": "JyVeoQzW84c",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-43",
-     "num": 43,
-     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-43.mp3",
-     "youtubeId": "3w3Yt4SdYuo",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-en-44",
-     "num": 44,
-     "titolo": "Misunderstandings, Balance, and Discernment",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-44.mp3",
-     "youtubeId": "z2LDXbM1QiU",
      "durataSec": 0
     }
    ]
