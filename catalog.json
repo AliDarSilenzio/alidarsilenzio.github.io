@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -1861,9 +1861,9 @@
     {
      "id": "ramana-en-22",
      "num": 22,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-22.mp3",
-     "youtubeId": "VtdICYatcUo",
+     "youtubeId": "ywcyhAZahk4",
      "durataSec": 0
     },
     {
@@ -1871,15 +1871,15 @@
      "num": 23,
      "titolo": "His Mother Alagammal and the Birth of the Ashram",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-23.mp3",
-     "youtubeId": "ywcyhAZahk4",
+     "youtubeId": "l04h0ObXDXw",
      "durataSec": 0
     },
     {
      "id": "ramana-en-24",
      "num": 24,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-24.mp3",
-     "youtubeId": "MPSAqwfD4Z0",
+     "youtubeId": "35uNiGdJ3tE",
      "durataSec": 0
     },
     {
@@ -1887,63 +1887,15 @@
      "num": 25,
      "titolo": "His Mother Alagammal and the Birth of the Ashram",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-25.mp3",
-     "youtubeId": "l04h0ObXDXw",
+     "youtubeId": "rQkgzBQhge0",
      "durataSec": 0
     },
     {
      "id": "ramana-en-26",
      "num": 26,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-26.mp3",
-     "youtubeId": "ix7F6b0N01M",
-     "durataSec": 0
-    },
-    {
-     "id": "ramana-en-27",
-     "num": 27,
-     "titolo": "His Mother Alagammal and the Birth of the Ashram",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-27.mp3",
-     "youtubeId": "35uNiGdJ3tE",
-     "durataSec": 0
-    },
-    {
-     "id": "ramana-en-28",
-     "num": 28,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-28.mp3",
-     "youtubeId": "AhS_H_JaNzQ",
-     "durataSec": 0
-    },
-    {
-     "id": "ramana-en-29",
-     "num": 29,
-     "titolo": "His Mother Alagammal and the Birth of the Ashram",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-29.mp3",
-     "youtubeId": "rQkgzBQhge0",
-     "durataSec": 0
-    },
-    {
-     "id": "ramana-en-30",
-     "num": 30,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-30.mp3",
-     "youtubeId": "9RUjgju6IEY",
-     "durataSec": 0
-    },
-    {
-     "id": "ramana-en-31",
-     "num": 31,
-     "titolo": "His Mother Alagammal and the Birth of the Ashram",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-31.mp3",
      "youtubeId": "qTnkuCONSis",
-     "durataSec": 0
-    },
-    {
-     "id": "ramana-en-32",
-     "num": 32,
-     "titolo": "Obstacles, Doubts, and Misunderstandings",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-32.mp3",
-     "youtubeId": "ZxAw0tkffQk",
      "durataSec": 0
     }
    ]
