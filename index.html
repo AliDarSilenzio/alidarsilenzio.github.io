@@ -74,6 +74,15 @@
     </div>
   </section>
 
+  <section style="margin:8px 0 22px">
+    <div style="background:linear-gradient(135deg,#141d18,#102018);border:1px solid #2e6b4e;border-radius:16px;padding:26px 24px;text-align:center">
+      <h2 id="appTitle" style="margin:0 0 6px;font-size:26px;color:#7fe0a8"></h2>
+      <p id="appText" style="color:var(--dim);font-size:15px;max-width:700px;margin:0 auto 16px"></p>
+      <a class="btn sub" id="appBtn" href="AliDar-Binaural.apk" download style="display:inline-block;margin:4px;background:#2e8b57;border-color:#2e8b57"></a>
+      <p id="appNote" style="color:var(--dim);font-size:13px;margin:12px 0 0"></p>
+    </div>
+  </section>
+
   <input class="search" id="search" oninput="render()" />
   <div id="list"></div>
 
@@ -101,6 +110,10 @@ const I18N={
       proposeTitle:"🎙️ Cosa vorrebbe ascoltare la tua mente?",
       proposeText:"Proponi un argomento — o un personaggio che ti affascina — e, se la tua idea ci conquista, diventerà un vero video di AliDar: creato apposta, con ricerca e voce. Lascia il tuo nome (o soprannome) e l'email: ti avviseremo quando il tuo video sarà pronto.",
       proposeBtn:"📝 Proponi un tema (compila il modulo)", feedbackBtn:"💬 Feedback sul canale",
+      appTitle:"📱 App AliDar‑Binaural (Android)",
+      appText:"L'app gratuita che genera veri battiti binaurali in tempo reale: onde Delta, Theta, Alpha, Beta, Gamma e 40 Hz, toni Solfeggio, musica di sottofondo e la tua playlist personale. Mettiti le cuffie e scegli il tuo stato: sonno, calma, concentrazione, meditazione.",
+      appBtn:"⬇ Scarica l'app (APK Android)",
+      appNote:"Solo Android. Dopo il download, consenti l'installazione da «origini sconosciute». Nessuna pubblicità, nessun account.",
       footer:"audiolibri di saggezza e suoni per il benessere.", privacy:"Privacy", nores:"Nessun risultato." },
  en:{ sub:"Subscribe to the channel", searchPh:"Search a book, a chapter, a theme…",
       heroTitle:"Audiobooks & sounds for the mind",
@@ -114,6 +127,10 @@ const I18N={
       proposeTitle:"🎙️ What is your mind longing to hear?",
       proposeText:"Suggest a topic — or a figure that captivates you. If your idea wins us over, it becomes a real AliDar video: crafted just for it, with research and a voice of its own. Your curiosity writes our next story. Leave your name (or nickname) and email, and we'll let you know when your video is ready.",
       proposeBtn:"📝 Suggest a topic (fill the form)", feedbackBtn:"💬 Feedback on the channel",
+      appTitle:"📱 AliDar‑Binaural App (Android)",
+      appText:"The free app that generates real binaural beats in real time: Delta, Theta, Alpha, Beta, Gamma and 40 Hz waves, Solfeggio tones, background music and your own playlist. Put on headphones and choose your state: sleep, calm, focus, meditation.",
+      appBtn:"⬇ Download the app (Android APK)",
+      appNote:"Android only. After downloading, allow installation from «unknown sources». No ads, no account.",
       footer:"wisdom audiobooks and sounds for wellbeing.", privacy:"Privacy", nores:"No results." }
 };
 // descrizioni per collezione (per parola chiave)
@@ -143,6 +160,10 @@ function setLang(l){ LANG=l; document.documentElement.lang=l;
   document.getElementById('proposeText').textContent=I18N[l].proposeText;
   document.getElementById('proposeBtn').textContent=I18N[l].proposeBtn;
   document.getElementById('feedbackBtn').textContent=I18N[l].feedbackBtn;
+  document.getElementById('appTitle').textContent=I18N[l].appTitle;
+  document.getElementById('appText').textContent=I18N[l].appText;
+  document.getElementById('appBtn').textContent=I18N[l].appBtn;
+  document.getElementById('appNote').textContent=I18N[l].appNote;
   const cu=(window.ALIDAR_CHANNEL||{}).url||"https://www.youtube.com/@alidar-d6s";
   const FORM_URL="https://docs.google.com/forms/d/e/1FAIpQLSfmFzsGFHehFQ7RbjrRwshAIo6_URt7MXUO3YQ0xOd5kkuOkg/viewform";
   document.getElementById('proposeBtn').href=FORM_URL;
