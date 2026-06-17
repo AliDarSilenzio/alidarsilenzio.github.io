@@ -38,4 +38,5 @@ echo "   2) metti client_secret.json in /Users/AgenteAliduEbook/progetti/alidar-
 echo "      poi: /Users/AgenteAliduEbook/.tts_venv/bin/python \\"
 echo "           /Users/AgenteAliduEbook/progetti/alidar-studio/rinnova_token.py"
 echo "   3) automazioni: crontab -e  (vedi /opt/alidu-system/cron.example)"
+echo "   4) parla con Mythos: scrivi  claude  (poi login col tuo account MAX)"
 echo "=================================================="
