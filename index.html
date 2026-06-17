@@ -83,6 +83,15 @@
     </div>
   </section>
 
+  <section style="margin:8px 0 22px">
+    <div style="background:linear-gradient(135deg,#1b1420,#241a2e);border:1px solid #7d3c98;border-radius:16px;padding:26px 24px;text-align:center">
+      <h2 id="app2Title" style="margin:0 0 6px;font-size:26px;color:#c9a6e8"></h2>
+      <p id="app2Text" style="color:var(--dim);font-size:15px;max-width:700px;margin:0 auto 16px"></p>
+      <a class="btn sub" id="app2Btn" href="AliDar.apk" download style="display:inline-block;margin:4px;background:#7d3c98;border-color:#7d3c98"></a>
+      <p id="app2Note" style="color:var(--dim);font-size:13px;margin:12px 0 0"></p>
+    </div>
+  </section>
+
   <input class="search" id="search" oninput="render()" />
   <div id="list"></div>
 
@@ -114,6 +123,10 @@ const I18N={
       appText:"L'app gratuita che genera veri battiti binaurali in tempo reale: onde Delta, Theta, Alpha, Beta, Gamma e 40 Hz, toni Solfeggio, musica di sottofondo e la tua playlist personale. Mettiti le cuffie e scegli il tuo stato: sonno, calma, concentrazione, meditazione.",
       appBtn:"⬇ Scarica l'app (APK Android)",
       appNote:"Solo Android. Dopo il download, consenti l'installazione da «origini sconosciute». Nessuna pubblicità, nessun account.",
+      app2Title:"📚 App AliDar — Audiolibri (Android)",
+      app2Text:"Tutti gli audiolibri AliDar in un'unica app: ascolti in streaming oppure scarichi i capitoli per sentirli OFFLINE e IN BACKGROUND, anche a schermo spento. Collane di saggezza, benessere e scienza, sempre con te.",
+      app2Btn:"⬇ Scarica l'app Audiolibri (APK Android)",
+      app2Note:"Solo Android. Si aggiorna da sola con i nuovi titoli. Nessuna pubblicità, nessun account.",
       footer:"audiolibri di saggezza e suoni per il benessere.", privacy:"Privacy", nores:"Nessun risultato." },
  en:{ sub:"Subscribe to the channel", searchPh:"Search a book, a chapter, a theme…",
       heroTitle:"Audiobooks & sounds for the mind",
@@ -131,6 +144,10 @@ const I18N={
       appText:"The free app that generates real binaural beats in real time: Delta, Theta, Alpha, Beta, Gamma and 40 Hz waves, Solfeggio tones, background music and your own playlist. Put on headphones and choose your state: sleep, calm, focus, meditation.",
       appBtn:"⬇ Download the app (Android APK)",
       appNote:"Android only. After downloading, allow installation from «unknown sources». No ads, no account.",
+      app2Title:"📚 AliDar App — Audiobooks (Android)",
+      app2Text:"All AliDar audiobooks in one app: stream them, or download chapters to listen OFFLINE and IN THE BACKGROUND, even with the screen off. Collections of wisdom, wellbeing and science, always with you.",
+      app2Btn:"⬇ Download the Audiobooks app (Android APK)",
+      app2Note:"Android only. It updates itself with new titles. No ads, no account.",
       footer:"wisdom audiobooks and sounds for wellbeing.", privacy:"Privacy", nores:"No results." }
 };
 // descrizioni per collezione (per parola chiave)
@@ -164,6 +181,10 @@ function setLang(l){ LANG=l; document.documentElement.lang=l;
   document.getElementById('appText').textContent=I18N[l].appText;
   document.getElementById('appBtn').textContent=I18N[l].appBtn;
   document.getElementById('appNote').textContent=I18N[l].appNote;
+  document.getElementById('app2Title').textContent=I18N[l].app2Title;
+  document.getElementById('app2Text').textContent=I18N[l].app2Text;
+  document.getElementById('app2Btn').textContent=I18N[l].app2Btn;
+  document.getElementById('app2Note').textContent=I18N[l].app2Note;
   const cu=(window.ALIDAR_CHANNEL||{}).url||"https://www.youtube.com/@alidar-d6s";
   const FORM_URL="https://docs.google.com/forms/d/e/1FAIpQLSfmFzsGFHehFQ7RbjrRwshAIo6_URt7MXUO3YQ0xOd5kkuOkg/viewform";
   document.getElementById('proposeBtn').href=FORM_URL;
