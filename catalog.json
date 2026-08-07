@@ -1,5 +1,5 @@
 {
- "version": 38,
+ "version": 39,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2015,6 +2015,14 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-62.mp3",
      "youtubeId": "iDSpYkmJpwQ",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-63",
+     "num": 63,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-63.mp3",
+     "youtubeId": "1HxnO8NnxVI",
+     "durataSec": 0
     }
    ]
   },
@@ -3241,6 +3249,30 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-152.mp3",
      "youtubeId": "akdoZoUqukQ",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-en-153",
+     "num": 153,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-153.mp3",
+     "youtubeId": "aMNG2tuHWZs",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-154",
+     "num": 154,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-154.mp3",
+     "youtubeId": "-OJ0S7mVJrw",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-155",
+     "num": 155,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-155.mp3",
+     "youtubeId": "Irp4mLByZlM",
+     "durataSec": 0
     }
    ]
   },
@@ -4397,6 +4429,22 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-120.mp3",
      "youtubeId": "Efuook37wZQ",
      "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-121",
+     "num": 121,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-121.mp3",
+     "youtubeId": "DHBqLpvx_xA",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-122",
+     "num": 122,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-122.mp3",
+     "youtubeId": "wMSthaK3nDk",
+     "durataSec": 0
     }
    ]
   },
@@ -5351,6 +5399,38 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-118.mp3",
      "youtubeId": "3bDXqRtNeq8",
      "durataSec": 0
+    },
+    {
+     "id": "laozi-119",
+     "num": 119,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-119.mp3",
+     "youtubeId": "-KGrFCtGoVU",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-120",
+     "num": 120,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-120.mp3",
+     "youtubeId": "1ucl1xMhKdY",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-121",
+     "num": 121,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-121.mp3",
+     "youtubeId": "qRqmptkhl54",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-122",
+     "num": 122,
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-122.mp3",
+     "youtubeId": "ilxfpjkPHsY",
+     "durataSec": 0
     }
    ]
   },
@@ -5520,6 +5600,14 @@
      "titolo": "L'eredita di Adi Shankara e cosa ci lascia oggi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-20.mp3",
      "youtubeId": "czF5x1lG-tM",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-21",
+     "num": 21,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 6: Il cuore dell'insegnamento, parte prima: i concetti fondamentali",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-21.mp3",
+     "youtubeId": "cAjp75BAo0s",
      "durataSec": 0
     }
    ]
@@ -7045,6 +7133,38 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-168.mp3",
      "youtubeId": "T9c3AHpLckI",
      "durataSec": 0
+    },
+    {
+     "id": "laozi-en-169",
+     "num": 169,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-169.mp3",
+     "youtubeId": "V7vuSv3ZOeY",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-170",
+     "num": 170,
+     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-170.mp3",
+     "youtubeId": "PvKMBjt8shg",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-171",
+     "num": 171,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-171.mp3",
+     "youtubeId": "aG5AdVUeyTg",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-172",
+     "num": 172,
+     "titolo": "Breath, Attention, and the Body in Practice",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-172.mp3",
+     "youtubeId": "Z1d7owQviCM",
+     "durataSec": 0
     }
    ]
   },
@@ -7824,6 +7944,14 @@
      "titolo": "La maturità di Rumi, i discepoli e la nascita di una via",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-cap-50.mp3",
      "youtubeId": "7dOVIRzIs58",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-51",
+     "num": 51,
+     "titolo": "La maturità di Rumi, i discepoli e la nascita di una via",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-cap-51.mp3",
+     "youtubeId": "nMmY5sI63wo",
      "durataSec": 0
     }
    ]
@@ -11343,6 +11471,134 @@
      "num": 234,
      "titolo": "The Thousands and Evil",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-234.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-235",
+     "num": 235,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-235.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-236",
+     "num": 236,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-236.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-237",
+     "num": 237,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-237.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-238",
+     "num": 238,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-238.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-239",
+     "num": 239,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-239.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-240",
+     "num": 240,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-240.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-241",
+     "num": 241,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-241.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-242",
+     "num": 242,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-242.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-243",
+     "num": 243,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-243.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-244",
+     "num": 244,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-244.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-245",
+     "num": 245,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-245.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-246",
+     "num": 246,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-246.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-247",
+     "num": 247,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-247.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-248",
+     "num": 248,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-248.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-249",
+     "num": 249,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-249.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-250",
+     "num": 250,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-250.mp3",
      "youtubeId": "Pf6QOP558aU",
      "durataSec": 0
     }
