@@ -1,5 +1,5 @@
 {
- "version": 37,
+ "version": 38,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -1983,6 +1983,38 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-58.mp3",
      "youtubeId": "sfV9pDRjybo",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-59",
+     "num": 59,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-59.mp3",
+     "youtubeId": "x0mO9fL8g-I",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-60",
+     "num": 60,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-60.mp3",
+     "youtubeId": "RVmrUizUcHY",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-61",
+     "num": 61,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-61.mp3",
+     "youtubeId": "KHzm81Cttw4",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-62",
+     "num": 62,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-62.mp3",
+     "youtubeId": "iDSpYkmJpwQ",
+     "durataSec": 0
     }
    ]
   },
@@ -3137,6 +3169,78 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-143.mp3",
      "youtubeId": "ppY3gavBHMg",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-en-144",
+     "num": 144,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-144.mp3",
+     "youtubeId": "PP2qDR-Q_xQ",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-145",
+     "num": 145,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-145.mp3",
+     "youtubeId": "qLEfXlp87-Y",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-146",
+     "num": 146,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-146.mp3",
+     "youtubeId": "0WJq7HJMzAM",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-147",
+     "num": 147,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-147.mp3",
+     "youtubeId": "8WYuGHy0C4k",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-148",
+     "num": 148,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-148.mp3",
+     "youtubeId": "8Aah8nTYSmU",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-149",
+     "num": 149,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-149.mp3",
+     "youtubeId": "emIfGwYlJlI",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-150",
+     "num": 150,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-150.mp3",
+     "youtubeId": "B_wG2rDcojs",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-151",
+     "num": 151,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-151.mp3",
+     "youtubeId": "uaudvSKUvdM",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-152",
+     "num": 152,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-152.mp3",
+     "youtubeId": "akdoZoUqukQ",
+     "durataSec": 0
     }
    ]
   },
@@ -4229,6 +4333,70 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-112.mp3",
      "youtubeId": "CkgXCXK7gw0",
      "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-113",
+     "num": 113,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-113.mp3",
+     "youtubeId": "rl-J4-vkASA",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-114",
+     "num": 114,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-114.mp3",
+     "youtubeId": "IS4Kpexkx2g",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-115",
+     "num": 115,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-115.mp3",
+     "youtubeId": "jpq7zMO-D4c",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-116",
+     "num": 116,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-116.mp3",
+     "youtubeId": "7BFTOlMVka4",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-117",
+     "num": 117,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-117.mp3",
+     "youtubeId": "YnCbPorZuPk",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-118",
+     "num": 118,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-118.mp3",
+     "youtubeId": "Ind4rVEDsZk",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-119",
+     "num": 119,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-119.mp3",
+     "youtubeId": "yGyt7REVvdQ",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-120",
+     "num": 120,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-120.mp3",
+     "youtubeId": "Efuook37wZQ",
+     "durataSec": 0
     }
    ]
   },
@@ -5070,6 +5238,118 @@
      "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-104.mp3",
      "youtubeId": "7aJtbY4mNTg",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-105",
+     "num": 105,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-105.mp3",
+     "youtubeId": "n5BFQElFBDY",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-106",
+     "num": 106,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-106.mp3",
+     "youtubeId": "gvAl8XSpPgU",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-107",
+     "num": 107,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-107.mp3",
+     "youtubeId": "_5qMnGew_os",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-108",
+     "num": 108,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-108.mp3",
+     "youtubeId": "XwoNQRgXTD8",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-109",
+     "num": 109,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-109.mp3",
+     "youtubeId": "fBG3LYe8vnc",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-110",
+     "num": 110,
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-110.mp3",
+     "youtubeId": "PksK_wEoDqs",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-111",
+     "num": 111,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-111.mp3",
+     "youtubeId": "NtqnfkdtJNQ",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-112",
+     "num": 112,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-112.mp3",
+     "youtubeId": "TUgQ14242-Y",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-113",
+     "num": 113,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-113.mp3",
+     "youtubeId": "TuoHW5bfzkY",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-114",
+     "num": 114,
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-114.mp3",
+     "youtubeId": "OSmLsAsYhR8",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-115",
+     "num": 115,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-115.mp3",
+     "youtubeId": "7cVSlPU4bVs",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-116",
+     "num": 116,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-116.mp3",
+     "youtubeId": "MXL7VbJVUYc",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-117",
+     "num": 117,
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-117.mp3",
+     "youtubeId": "GYJaJVDwrp8",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-118",
+     "num": 118,
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-118.mp3",
+     "youtubeId": "3bDXqRtNeq8",
      "durataSec": 0
     }
    ]
@@ -6621,6 +6901,150 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-150.mp3",
      "youtubeId": "_OLpZ_fcki4",
      "durataSec": 0
+    },
+    {
+     "id": "laozi-en-151",
+     "num": 151,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-151.mp3",
+     "youtubeId": "9_2PA3fTpZ8",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-152",
+     "num": 152,
+     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-152.mp3",
+     "youtubeId": "lOT37GRHpSg",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-153",
+     "num": 153,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-153.mp3",
+     "youtubeId": "ggIwiJlnWQw",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-154",
+     "num": 154,
+     "titolo": "Breath, Attention, and the Body in Practice",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-154.mp3",
+     "youtubeId": "yXEndk60DoU",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-155",
+     "num": 155,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-155.mp3",
+     "youtubeId": "Gkg3Dxye4nc",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-156",
+     "num": 156,
+     "titolo": "Misunderstandings, Balance, and Discernment",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-156.mp3",
+     "youtubeId": "J0ceNMmJUYQ",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-157",
+     "num": 157,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-157.mp3",
+     "youtubeId": "H-wTo_SXJeE",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-158",
+     "num": 158,
+     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-158.mp3",
+     "youtubeId": "-WvNydmMP-g",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-159",
+     "num": 159,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-159.mp3",
+     "youtubeId": "V6Jou9IJHAI",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-160",
+     "num": 160,
+     "titolo": "Breath, Attention, and the Body in Practice",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-160.mp3",
+     "youtubeId": "VPqo76l9KwE",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-161",
+     "num": 161,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-161.mp3",
+     "youtubeId": "iu8FNFnaAIs",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-162",
+     "num": 162,
+     "titolo": "Misunderstandings, Balance, and Discernment",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-162.mp3",
+     "youtubeId": "3nGPBfFEymM",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-163",
+     "num": 163,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 1: Who Laozi Was and Why It Speaks to the Silence of the",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-163.mp3",
+     "youtubeId": "Cpu0rjh3RkI",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-164",
+     "num": 164,
+     "titolo": "The Heart of the Teaching, Part One: The Core Ideas",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-164.mp3",
+     "youtubeId": "l3s0NWvcH38",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-165",
+     "num": 165,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 9: The Way That Cannot Be Named: Wu Wei and the Power of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-165.mp3",
+     "youtubeId": "-3MC-I8xaV8",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-166",
+     "num": 166,
+     "titolo": "Breath, Attention, and the Body in Practice",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-166.mp3",
+     "youtubeId": "hT1nGlhqpqc",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-167",
+     "num": 167,
+     "titolo": "Laozi - The Tao Te Ching (Explained) - Ch. 14: The Signs and the Fruits: What Changes in Experience",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-167.mp3",
+     "youtubeId": "kjkYFZZzjn8",
+     "durataSec": 0
+    },
+    {
+     "id": "laozi-en-168",
+     "num": 168,
+     "titolo": "Misunderstandings, Balance, and Discernment",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-en-cap-168.mp3",
+     "youtubeId": "T9c3AHpLckI",
+     "durataSec": 0
     }
    ]
   },
@@ -6819,9 +7243,9 @@
     {
      "id": "huineng-24",
      "num": 24,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-24.mp3",
-     "youtubeId": "Jvglov3SgZ0",
+     "youtubeId": "gNw5M_KYOVc",
      "durataSec": 0
     },
     {
@@ -6829,15 +7253,15 @@
      "num": 25,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-25.mp3",
-     "youtubeId": "gNw5M_KYOVc",
+     "youtubeId": "cJHUPDom1Ms",
      "durataSec": 0
     },
     {
      "id": "huineng-26",
      "num": 26,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-26.mp3",
-     "youtubeId": "LQKm6cJYv4A",
+     "youtubeId": "_CCnJiy78QA",
      "durataSec": 0
     },
     {
@@ -6845,15 +7269,15 @@
      "num": 27,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-27.mp3",
-     "youtubeId": "cJHUPDom1Ms",
+     "youtubeId": "4RqFYaY9VaM",
      "durataSec": 0
     },
     {
      "id": "huineng-28",
      "num": 28,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-28.mp3",
-     "youtubeId": "W4YdYG-j_6A",
+     "youtubeId": "T6Rf4gllxZ0",
      "durataSec": 0
     },
     {
@@ -6861,23 +7285,23 @@
      "num": 29,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-29.mp3",
-     "youtubeId": "_CCnJiy78QA",
+     "youtubeId": "jfDcrHoX6Q0",
      "durataSec": 0
     },
     {
      "id": "huineng-30",
      "num": 30,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-30.mp3",
-     "youtubeId": "XveGKkWkJTY",
+     "youtubeId": "e86tbnriyPM",
      "durataSec": 0
     },
     {
      "id": "huineng-31",
      "num": 31,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
+     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-31.mp3",
-     "youtubeId": "4RqFYaY9VaM",
+     "youtubeId": "yObd8auc2wY",
      "durataSec": 0
     },
     {
@@ -6885,7 +7309,7 @@
      "num": 32,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-32.mp3",
-     "youtubeId": "tN1jszWgyMA",
+     "youtubeId": "tQGbSc2o3js",
      "durataSec": 0
     },
     {
@@ -6893,15 +7317,15 @@
      "num": 33,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-33.mp3",
-     "youtubeId": "T6Rf4gllxZ0",
+     "youtubeId": "7-k2RiiyvGQ",
      "durataSec": 0
     },
     {
      "id": "huineng-34",
      "num": 34,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-34.mp3",
-     "youtubeId": "rOTZay_HFVg",
+     "youtubeId": "gfMKSh9rfok",
      "durataSec": 0
     },
     {
@@ -6909,23 +7333,23 @@
      "num": 35,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-35.mp3",
-     "youtubeId": "jfDcrHoX6Q0",
+     "youtubeId": "3aCTXe9XQhU",
      "durataSec": 0
     },
     {
      "id": "huineng-36",
      "num": 36,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-36.mp3",
-     "youtubeId": "s1Ny6PCo2f4",
+     "youtubeId": "In2ITAB4XSM",
      "durataSec": 0
     },
     {
      "id": "huineng-37",
      "num": 37,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-37.mp3",
-     "youtubeId": "DsoIw04J6Zo",
+     "youtubeId": "7eljAnIUINQ",
      "durataSec": 0
     },
     {
@@ -6933,23 +7357,23 @@
      "num": 38,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-38.mp3",
-     "youtubeId": "e86tbnriyPM",
+     "youtubeId": "rtCYuHAZXnI",
      "durataSec": 0
     },
     {
      "id": "huineng-39",
      "num": 39,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-39.mp3",
-     "youtubeId": "yObd8auc2wY",
+     "youtubeId": "7wHI8Tnw5LM",
      "durataSec": 0
     },
     {
      "id": "huineng-40",
      "num": 40,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-40.mp3",
-     "youtubeId": "tQGbSc2o3js",
+     "youtubeId": "Q3LrsdRZx8A",
      "durataSec": 0
     },
     {
@@ -6957,15 +7381,15 @@
      "num": 41,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-41.mp3",
-     "youtubeId": "7-k2RiiyvGQ",
+     "youtubeId": "qoUDK1e9zeQ",
      "durataSec": 0
     },
     {
      "id": "huineng-42",
      "num": 42,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-42.mp3",
-     "youtubeId": "RRIkvkqr5w8",
+     "youtubeId": "Z1_SteVELrw",
      "durataSec": 0
     },
     {
@@ -6973,7 +7397,7 @@
      "num": 43,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-43.mp3",
-     "youtubeId": "KpgPgrHSfOY",
+     "youtubeId": "ywwL43rz6CY",
      "durataSec": 0
     },
     {
@@ -6981,143 +7405,15 @@
      "num": 44,
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-44.mp3",
-     "youtubeId": "gfMKSh9rfok",
+     "youtubeId": "X4-gO2UEhx0",
      "durataSec": 0
     },
     {
      "id": "huineng-45",
      "num": 45,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-45.mp3",
-     "youtubeId": "ZZDfCaUGwYY",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-46",
-     "num": 46,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-46.mp3",
-     "youtubeId": "Z7oCtIjgj0s",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-47",
-     "num": 47,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-47.mp3",
-     "youtubeId": "3aCTXe9XQhU",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-48",
-     "num": 48,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-48.mp3",
-     "youtubeId": "QqqWrcoE9rw",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-49",
-     "num": 49,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-49.mp3",
-     "youtubeId": "S9y8V-Y9zts",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-50",
-     "num": 50,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-50.mp3",
-     "youtubeId": "In2ITAB4XSM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-51",
-     "num": 51,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-51.mp3",
-     "youtubeId": "ZmqU0qajRZw",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-52",
-     "num": 52,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-52.mp3",
-     "youtubeId": "6RYKxqJeaZs",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-53",
-     "num": 53,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-53.mp3",
-     "youtubeId": "7eljAnIUINQ",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-54",
-     "num": 54,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-54.mp3",
-     "youtubeId": "P7h-Ma2FkJY",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-55",
-     "num": 55,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-55.mp3",
-     "youtubeId": "rtCYuHAZXnI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-56",
-     "num": 56,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-56.mp3",
-     "youtubeId": "lIuxxp33xRI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-57",
-     "num": 57,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-57.mp3",
-     "youtubeId": "UrcZhj-UMAI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-58",
-     "num": 58,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-58.mp3",
-     "youtubeId": "7wHI8Tnw5LM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-59",
-     "num": 59,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-59.mp3",
-     "youtubeId": "1h7H_lGT0uE",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-60",
-     "num": 60,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-60.mp3",
-     "youtubeId": "vtEKIXCOyyM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-61",
-     "num": 61,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-61.mp3",
-     "youtubeId": "Q3LrsdRZx8A",
+     "youtubeId": "8PXr0wP55Gc",
      "durataSec": 0
     }
    ]
@@ -7512,6 +7808,22 @@
      "titolo": "La maturità di Rumi, i discepoli e la nascita di una via",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-cap-48.mp3",
      "youtubeId": "goB2Aj_Xc7Q",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-49",
+     "num": 49,
+     "titolo": "La maturità di Rumi, i discepoli e la nascita di una via",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-cap-49.mp3",
+     "youtubeId": "wwOPLSjkuk4",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-50",
+     "num": 50,
+     "titolo": "La maturità di Rumi, i discepoli e la nascita di una via",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-cap-50.mp3",
+     "youtubeId": "7dOVIRzIs58",
      "durataSec": 0
     }
    ]
@@ -8786,6 +9098,86 @@
      "titolo": "The Practical Technique, Part Two: Going Deeper",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-158.mp3",
      "youtubeId": "iYNdIkSppvg",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-159",
+     "num": 159,
+     "titolo": "Rumi - The Song of the Reed (Explained) - Ch. 2: Origins, Part One: Birth, Roots, and the Making of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-159.mp3",
+     "youtubeId": "PGtcOTLXxck",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-160",
+     "num": 160,
+     "titolo": "Origins, Part Two: The Meeting with Shams",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-160.mp3",
+     "youtubeId": "WvnvyqVpM8c",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-161",
+     "num": 161,
+     "titolo": "Rumi - The Song of the Reed (Explained) - Ch. 7: The Heart of the Teaching, Part Two: The Vision of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-161.mp3",
+     "youtubeId": "rqdMVEiOg-Y",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-162",
+     "num": 162,
+     "titolo": "Rumi - The Song of the Reed (Explained) - Ch. 9: Love as the Bridge Home: The Beating Heart of Rumi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-162.mp3",
+     "youtubeId": "80IGIs5QG8U",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-163",
+     "num": 163,
+     "titolo": "The Practical Technique, Part Two: Going Deeper",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-163.mp3",
+     "youtubeId": "BMeveIuJ-IM",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-164",
+     "num": 164,
+     "titolo": "Rumi - The Song of the Reed (Explained) - Ch. 2: Origins, Part One: Birth, Roots, and the Making of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-164.mp3",
+     "youtubeId": "QIVqeTyQF8Y",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-165",
+     "num": 165,
+     "titolo": "Origins, Part Two: The Meeting with Shams",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-165.mp3",
+     "youtubeId": "PW61BpB8mXk",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-166",
+     "num": 166,
+     "titolo": "Rumi - The Song of the Reed (Explained) - Ch. 7: The Heart of the Teaching, Part Two: The Vision of",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-166.mp3",
+     "youtubeId": "Kgpi-x9n_TU",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-167",
+     "num": 167,
+     "titolo": "Rumi - The Song of the Reed (Explained) - Ch. 9: Love as the Bridge Home: The Beating Heart of Rumi",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-167.mp3",
+     "youtubeId": "pAup5REWSJI",
+     "durataSec": 0
+    },
+    {
+     "id": "rumi-en-168",
+     "num": 168,
+     "titolo": "The Practical Technique, Part Two: Going Deeper",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/rumi-en-cap-168.mp3",
+     "youtubeId": "ZqH92INSd7E",
      "durataSec": 0
     }
    ]
@@ -10759,6 +11151,198 @@
      "num": 210,
      "titolo": "The Thousands and Evil",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-210.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-211",
+     "num": 211,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-211.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-212",
+     "num": 212,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-212.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-213",
+     "num": 213,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-213.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-214",
+     "num": 214,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-214.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-215",
+     "num": 215,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-215.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-216",
+     "num": 216,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-216.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-217",
+     "num": 217,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-217.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-218",
+     "num": 218,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-218.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-219",
+     "num": 219,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-219.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-220",
+     "num": 220,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-220.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-221",
+     "num": 221,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-221.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-222",
+     "num": 222,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-222.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-223",
+     "num": 223,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-223.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-224",
+     "num": 224,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-224.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-225",
+     "num": 225,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-225.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-226",
+     "num": 226,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-226.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-227",
+     "num": 227,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-227.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-228",
+     "num": 228,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-228.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-229",
+     "num": 229,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-229.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-230",
+     "num": 230,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-230.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-231",
+     "num": 231,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-231.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-232",
+     "num": 232,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-232.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-233",
+     "num": 233,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-233.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-234",
+     "num": 234,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-234.mp3",
      "youtubeId": "Pf6QOP558aU",
      "durataSec": 0
     }
