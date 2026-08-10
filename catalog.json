@@ -1,5 +1,5 @@
 {
- "version": 40,
+ "version": 41,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2071,6 +2071,14 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-69.mp3",
      "youtubeId": "vVJmI8BmmQw",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-70",
+     "num": 70,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-70.mp3",
+     "youtubeId": "X82E9ARDjiY",
+     "durataSec": 0
     }
    ]
   },
@@ -3465,6 +3473,30 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-173.mp3",
      "youtubeId": "CYNgS8yLSbU",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-en-174",
+     "num": 174,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-174.mp3",
+     "youtubeId": "OBzd7CdwecU",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-175",
+     "num": 175,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-175.mp3",
+     "youtubeId": "hbvyMvRjwO4",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-176",
+     "num": 176,
+     "titolo": "Obstacles, Doubts, and Misunderstandings",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-176.mp3",
+     "youtubeId": "nyZuOXvoBtE",
+     "durataSec": 0
     }
    ]
   },
@@ -4732,6 +4764,22 @@
      "titolo": "The Usefulness of the Useless",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-134.mp3",
      "youtubeId": "COSi5k70scM",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-135",
+     "num": 135,
+     "titolo": "The Fasting of the Heart-Mind",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-135.mp3",
+     "youtubeId": "n1M-xPvL7oc",
+     "durataSec": 0
+    },
+    {
+     "id": "zhuangzi-en-136",
+     "num": 136,
+     "titolo": "The Usefulness of the Useless",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/zhuangzi-en-cap-136.mp3",
+     "youtubeId": "Vd2e_bORJBY",
      "durataSec": 0
     }
    ]
@@ -6080,6 +6128,14 @@
      "titolo": "L'eredita di Adi Shankara e cosa ci lascia oggi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-20.mp3",
      "youtubeId": "czF5x1lG-tM",
+     "durataSec": 0
+    },
+    {
+     "id": "shankara-21",
+     "num": 21,
+     "titolo": "Adi Shankara - Neti Neti - Cap. 6: Il cuore dell'insegnamento, parte prima: i concetti fondamentali",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-21.mp3",
+     "youtubeId": "nxbqiGe9eqA",
      "durataSec": 0
     }
    ]
@@ -8286,6 +8342,14 @@
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-44.mp3",
      "youtubeId": "8erP8eNTXlE",
+     "durataSec": 0
+    },
+    {
+     "id": "huineng-45",
+     "num": 45,
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-45.mp3",
+     "youtubeId": "8at0bORZV5M",
      "durataSec": 0
     }
    ]
@@ -12799,6 +12863,134 @@
      "num": 282,
      "titolo": "The Thousands and Evil",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-282.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-283",
+     "num": 283,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-283.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-284",
+     "num": 284,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-284.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-285",
+     "num": 285,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-285.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-286",
+     "num": 286,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-286.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-287",
+     "num": 287,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-287.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-288",
+     "num": 288,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-288.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-289",
+     "num": 289,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-289.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-290",
+     "num": 290,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-290.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-291",
+     "num": 291,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-291.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-292",
+     "num": 292,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-292.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-293",
+     "num": 293,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-293.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-294",
+     "num": 294,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-294.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-295",
+     "num": 295,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-295.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-296",
+     "num": 296,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-296.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-297",
+     "num": 297,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-297.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-298",
+     "num": 298,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-298.mp3",
      "youtubeId": "Pf6QOP558aU",
      "durataSec": 0
     }
