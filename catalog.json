@@ -1,5 +1,5 @@
 {
- "version": 41,
+ "version": 42,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -2079,6 +2079,14 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-70.mp3",
      "youtubeId": "X82E9ARDjiY",
      "durataSec": 0
+    },
+    {
+     "id": "ramana-71",
+     "num": 71,
+     "titolo": "Come si pratica l'auto-indagine, passo per passo",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-cap-71.mp3",
+     "youtubeId": "Y_7z1WL5y68",
+     "durataSec": 0
     }
    ]
   },
@@ -3496,6 +3504,22 @@
      "titolo": "Obstacles, Doubts, and Misunderstandings",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-176.mp3",
      "youtubeId": "nyZuOXvoBtE",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-177",
+     "num": 177,
+     "titolo": "His Mother Alagammal and the Birth of the Ashram",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-177.mp3",
+     "youtubeId": "ozp6npJN9As",
+     "durataSec": 0
+    },
+    {
+     "id": "ramana-en-178",
+     "num": 178,
+     "titolo": "Ramana Maharshi - Who Am I? (Explained) - Ch. 10: The Question That Changes Everything: \"Who Am I?\"",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/ramana-en-cap-178.mp3",
+     "youtubeId": "p4rIHIP8PRY",
      "durataSec": 0
     }
    ]
@@ -6129,14 +6153,6 @@
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-20.mp3",
      "youtubeId": "czF5x1lG-tM",
      "durataSec": 0
-    },
-    {
-     "id": "shankara-21",
-     "num": 21,
-     "titolo": "Adi Shankara - Neti Neti - Cap. 6: Il cuore dell'insegnamento, parte prima: i concetti fondamentali",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/shankara-cap-21.mp3",
-     "youtubeId": "nxbqiGe9eqA",
-     "durataSec": 0
     }
    ]
   },
@@ -8158,198 +8174,6 @@
      "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-21.mp3",
      "youtubeId": "d0Fy13THa9U",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-22",
-     "num": 22,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-22.mp3",
-     "youtubeId": "gNw5M_KYOVc",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-23",
-     "num": 23,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-23.mp3",
-     "youtubeId": "cJHUPDom1Ms",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-24",
-     "num": 24,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-24.mp3",
-     "youtubeId": "_CCnJiy78QA",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-25",
-     "num": 25,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-25.mp3",
-     "youtubeId": "4RqFYaY9VaM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-26",
-     "num": 26,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-26.mp3",
-     "youtubeId": "T6Rf4gllxZ0",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-27",
-     "num": 27,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-27.mp3",
-     "youtubeId": "jfDcrHoX6Q0",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-28",
-     "num": 28,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-28.mp3",
-     "youtubeId": "e86tbnriyPM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-29",
-     "num": 29,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-29.mp3",
-     "youtubeId": "tQGbSc2o3js",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-30",
-     "num": 30,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-30.mp3",
-     "youtubeId": "7-k2RiiyvGQ",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-31",
-     "num": 31,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-31.mp3",
-     "youtubeId": "gfMKSh9rfok",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-32",
-     "num": 32,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-32.mp3",
-     "youtubeId": "3aCTXe9XQhU",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-33",
-     "num": 33,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-33.mp3",
-     "youtubeId": "In2ITAB4XSM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-34",
-     "num": 34,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-34.mp3",
-     "youtubeId": "7eljAnIUINQ",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-35",
-     "num": 35,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-35.mp3",
-     "youtubeId": "rtCYuHAZXnI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-36",
-     "num": 36,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-36.mp3",
-     "youtubeId": "7wHI8Tnw5LM",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-37",
-     "num": 37,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-37.mp3",
-     "youtubeId": "Q3LrsdRZx8A",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-38",
-     "num": 38,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-38.mp3",
-     "youtubeId": "qoUDK1e9zeQ",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-39",
-     "num": 39,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-39.mp3",
-     "youtubeId": "Z1_SteVELrw",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-40",
-     "num": 40,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-40.mp3",
-     "youtubeId": "X4-gO2UEhx0",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-41",
-     "num": 41,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-41.mp3",
-     "youtubeId": "7a_RsAkRQt0",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-42",
-     "num": 42,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-42.mp3",
-     "youtubeId": "xbHFPn7JkkI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-43",
-     "num": 43,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-43.mp3",
-     "youtubeId": "zum68V-nzGY",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-44",
-     "num": 44,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-44.mp3",
-     "youtubeId": "8erP8eNTXlE",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-45",
-     "num": 45,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-45.mp3",
-     "youtubeId": "8at0bORZV5M",
      "durataSec": 0
     }
    ]
@@ -12991,6 +12815,38 @@
      "num": 298,
      "titolo": "The Thousands and Evil",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-298.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-299",
+     "num": 299,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-299.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-300",
+     "num": 300,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-300.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-301",
+     "num": 301,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-301.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-302",
+     "num": 302,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-302.mp3",
      "youtubeId": "Pf6QOP558aU",
      "durataSec": 0
     }
