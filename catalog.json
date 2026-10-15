@@ -1,5 +1,5 @@
 {
- "version": 54,
+ "version": 55,
  "updatedAt": "2026-06-07",
  "collane": [
   {
@@ -9371,41 +9371,41 @@
     {
      "id": "laozi-176",
      "num": 176,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-176.mp3",
-     "youtubeId": "L3yotWTwdKE",
+     "youtubeId": "4xyNvuboHgs",
      "durataSec": 0
     },
     {
      "id": "laozi-177",
      "num": 177,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-177.mp3",
-     "youtubeId": "4xyNvuboHgs",
+     "youtubeId": "wFDi4-one7g",
      "durataSec": 0
     },
     {
      "id": "laozi-178",
      "num": 178,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-178.mp3",
-     "youtubeId": "wFDi4-one7g",
+     "youtubeId": "XpcRPpZ4HKA",
      "durataSec": 0
     },
     {
      "id": "laozi-179",
      "num": 179,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-179.mp3",
-     "youtubeId": "XpcRPpZ4HKA",
+     "youtubeId": "mOz7SgCJgcI",
      "durataSec": 0
     },
     {
      "id": "laozi-180",
      "num": 180,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-180.mp3",
-     "youtubeId": "tcCy6bmL3As",
+     "youtubeId": "_NZuSGdgo7M",
      "durataSec": 0
     },
     {
@@ -9413,7 +9413,7 @@
      "num": 181,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-181.mp3",
-     "youtubeId": "mOz7SgCJgcI",
+     "youtubeId": "vkc8FxdaaX0",
      "durataSec": 0
     },
     {
@@ -9421,15 +9421,15 @@
      "num": 182,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-182.mp3",
-     "youtubeId": "_NZuSGdgo7M",
+     "youtubeId": "CmwpmYAWGMg",
      "durataSec": 0
     },
     {
      "id": "laozi-183",
      "num": 183,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-183.mp3",
-     "youtubeId": "AMfE3uV3Rm4",
+     "youtubeId": "ufjMFw8evFs",
      "durataSec": 0
     },
     {
@@ -9437,7 +9437,7 @@
      "num": 184,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-184.mp3",
-     "youtubeId": "vkc8FxdaaX0",
+     "youtubeId": "H3NucVTfR6I",
      "durataSec": 0
     },
     {
@@ -9445,7 +9445,7 @@
      "num": 185,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-185.mp3",
-     "youtubeId": "CmwpmYAWGMg",
+     "youtubeId": "u1VVrt-deZI",
      "durataSec": 0
     },
     {
@@ -9453,79 +9453,79 @@
      "num": 186,
      "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-186.mp3",
-     "youtubeId": "ufjMFw8evFs",
+     "youtubeId": "Sac-aI32RH0",
      "durataSec": 0
     },
     {
      "id": "laozi-187",
      "num": 187,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-187.mp3",
-     "youtubeId": "xE2nNPh7ZT8",
+     "youtubeId": "15GwCHRDpGI",
      "durataSec": 0
     },
     {
      "id": "laozi-188",
      "num": 188,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-188.mp3",
-     "youtubeId": "H3NucVTfR6I",
+     "youtubeId": "oWA-WDfk1GQ",
      "durataSec": 0
     },
     {
      "id": "laozi-189",
      "num": 189,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-189.mp3",
-     "youtubeId": "u1VVrt-deZI",
+     "youtubeId": "9c3TrTjTuQ4",
      "durataSec": 0
     },
     {
      "id": "laozi-190",
      "num": 190,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-190.mp3",
-     "youtubeId": "Sac-aI32RH0",
+     "youtubeId": "z84iJJRddYA",
      "durataSec": 0
     },
     {
      "id": "laozi-191",
      "num": 191,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-191.mp3",
-     "youtubeId": "KCQr3Ddt2BI",
+     "youtubeId": "hqMD8CDD5tw",
      "durataSec": 0
     },
     {
      "id": "laozi-192",
      "num": 192,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-192.mp3",
-     "youtubeId": "15GwCHRDpGI",
+     "youtubeId": "b06mV-3lavQ",
      "durataSec": 0
     },
     {
      "id": "laozi-193",
      "num": 193,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-193.mp3",
-     "youtubeId": "oWA-WDfk1GQ",
+     "youtubeId": "Ey20Le2KFik",
      "durataSec": 0
     },
     {
      "id": "laozi-194",
      "num": 194,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-194.mp3",
-     "youtubeId": "9c3TrTjTuQ4",
+     "youtubeId": "zb5YWYcUeng",
      "durataSec": 0
     },
     {
      "id": "laozi-195",
      "num": 195,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-195.mp3",
-     "youtubeId": "AmHnepERAQk",
+     "youtubeId": "ALCIZ_nS1u4",
      "durataSec": 0
     },
     {
@@ -9533,7 +9533,7 @@
      "num": 196,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-196.mp3",
-     "youtubeId": "z84iJJRddYA",
+     "youtubeId": "ZHI2kuFCzEU",
      "durataSec": 0
     },
     {
@@ -9541,7 +9541,7 @@
      "num": 197,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-197.mp3",
-     "youtubeId": "hqMD8CDD5tw",
+     "youtubeId": "nR0r47s6dd0",
      "durataSec": 0
     },
     {
@@ -9549,79 +9549,79 @@
      "num": 198,
      "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-198.mp3",
-     "youtubeId": "b06mV-3lavQ",
+     "youtubeId": "dkGJaHQJbYo",
      "durataSec": 0
     },
     {
      "id": "laozi-199",
      "num": 199,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-199.mp3",
-     "youtubeId": "PjGBEekL3Y8",
+     "youtubeId": "SkMDYdFl7Ig",
      "durataSec": 0
     },
     {
      "id": "laozi-200",
      "num": 200,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-200.mp3",
-     "youtubeId": "Ey20Le2KFik",
+     "youtubeId": "Z55Jd04OPAM",
      "durataSec": 0
     },
     {
      "id": "laozi-201",
      "num": 201,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-201.mp3",
-     "youtubeId": "zb5YWYcUeng",
+     "youtubeId": "b0MuTYG47E4",
      "durataSec": 0
     },
     {
      "id": "laozi-202",
      "num": 202,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-202.mp3",
-     "youtubeId": "ALCIZ_nS1u4",
+     "youtubeId": "u0NXMm3DW6Q",
      "durataSec": 0
     },
     {
      "id": "laozi-203",
      "num": 203,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-203.mp3",
-     "youtubeId": "N-s8fUQq0es",
+     "youtubeId": "11bSnVGILrY",
      "durataSec": 0
     },
     {
      "id": "laozi-204",
      "num": 204,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-204.mp3",
-     "youtubeId": "ZHI2kuFCzEU",
+     "youtubeId": "jbbxAT0lxWI",
      "durataSec": 0
     },
     {
      "id": "laozi-205",
      "num": 205,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-205.mp3",
-     "youtubeId": "nR0r47s6dd0",
+     "youtubeId": "2nhump3Dor4",
      "durataSec": 0
     },
     {
      "id": "laozi-206",
      "num": 206,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-206.mp3",
-     "youtubeId": "dkGJaHQJbYo",
+     "youtubeId": "HjQWmZBSrzY",
      "durataSec": 0
     },
     {
      "id": "laozi-207",
      "num": 207,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-207.mp3",
-     "youtubeId": "FKFxXlbbUeM",
+     "youtubeId": "raHCp9Voq-8",
      "durataSec": 0
     },
     {
@@ -9629,7 +9629,7 @@
      "num": 208,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-208.mp3",
-     "youtubeId": "SkMDYdFl7Ig",
+     "youtubeId": "b5peCfKlCmE",
      "durataSec": 0
     },
     {
@@ -9637,7 +9637,7 @@
      "num": 209,
      "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-209.mp3",
-     "youtubeId": "Z55Jd04OPAM",
+     "youtubeId": "kdvVMLIINuU",
      "durataSec": 0
     },
     {
@@ -9645,1014 +9645,910 @@
      "num": 210,
      "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-210.mp3",
-     "youtubeId": "b0MuTYG47E4",
+     "youtubeId": "-_H3GqvbcB4",
      "durataSec": 0
     },
     {
      "id": "laozi-211",
      "num": 211,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-211.mp3",
-     "youtubeId": "61zLVJ_HTO0",
+     "youtubeId": "BXG8xAKbxa0",
      "durataSec": 0
     },
     {
      "id": "laozi-212",
      "num": 212,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-212.mp3",
-     "youtubeId": "u0NXMm3DW6Q",
+     "youtubeId": "4bnjKx3a-7s",
      "durataSec": 0
     },
     {
      "id": "laozi-213",
      "num": 213,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-213.mp3",
-     "youtubeId": "11bSnVGILrY",
+     "youtubeId": "XcgNPs2dUuI",
      "durataSec": 0
     },
     {
      "id": "laozi-214",
      "num": 214,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-214.mp3",
-     "youtubeId": "jbbxAT0lxWI",
+     "youtubeId": "Zcx1ySkUvLY",
      "durataSec": 0
     },
     {
      "id": "laozi-215",
      "num": 215,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-215.mp3",
-     "youtubeId": "lTWdgKzXQFU",
+     "youtubeId": "NUllbwtHVxM",
      "durataSec": 0
     },
     {
      "id": "laozi-216",
      "num": 216,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-216.mp3",
-     "youtubeId": "2nhump3Dor4",
+     "youtubeId": "7nhrwBpyKqI",
      "durataSec": 0
     },
     {
      "id": "laozi-217",
      "num": 217,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-217.mp3",
-     "youtubeId": "HjQWmZBSrzY",
+     "youtubeId": "YOWm8FzPSEg",
      "durataSec": 0
     },
     {
      "id": "laozi-218",
      "num": 218,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-218.mp3",
-     "youtubeId": "raHCp9Voq-8",
+     "youtubeId": "J_YpIfc7va8",
      "durataSec": 0
     },
     {
      "id": "laozi-219",
      "num": 219,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-219.mp3",
-     "youtubeId": "I5MXCUQQrxQ",
+     "youtubeId": "Uy8AEVmT4A8",
      "durataSec": 0
     },
     {
      "id": "laozi-220",
      "num": 220,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-220.mp3",
-     "youtubeId": "b5peCfKlCmE",
+     "youtubeId": "NhIw-wry0pc",
      "durataSec": 0
     },
     {
      "id": "laozi-221",
      "num": 221,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-221.mp3",
-     "youtubeId": "kdvVMLIINuU",
+     "youtubeId": "dRrI4ufaieM",
      "durataSec": 0
     },
     {
      "id": "laozi-222",
      "num": 222,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-222.mp3",
-     "youtubeId": "-_H3GqvbcB4",
+     "youtubeId": "98ZHAmjHlYU",
      "durataSec": 0
     },
     {
      "id": "laozi-223",
      "num": 223,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-223.mp3",
-     "youtubeId": "xAhzyno_uYQ",
+     "youtubeId": "LZ_LTKUn2WQ",
      "durataSec": 0
     },
     {
      "id": "laozi-224",
      "num": 224,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-224.mp3",
-     "youtubeId": "BXG8xAKbxa0",
+     "youtubeId": "FjACwLv1WBI",
      "durataSec": 0
     },
     {
      "id": "laozi-225",
      "num": 225,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-225.mp3",
-     "youtubeId": "4bnjKx3a-7s",
+     "youtubeId": "aGEo-xd70C4",
      "durataSec": 0
     },
     {
      "id": "laozi-226",
      "num": 226,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-226.mp3",
-     "youtubeId": "XcgNPs2dUuI",
+     "youtubeId": "zbnrO-jwpFw",
      "durataSec": 0
     },
     {
      "id": "laozi-227",
      "num": 227,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-227.mp3",
-     "youtubeId": "Zcx1ySkUvLY",
+     "youtubeId": "4epDwaKWcIs",
      "durataSec": 0
     },
     {
      "id": "laozi-228",
      "num": 228,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-228.mp3",
-     "youtubeId": "NUllbwtHVxM",
+     "youtubeId": "zboydkUITrQ",
      "durataSec": 0
     },
     {
      "id": "laozi-229",
      "num": 229,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-229.mp3",
-     "youtubeId": "7nhrwBpyKqI",
+     "youtubeId": "B0-CcroFmSQ",
      "durataSec": 0
     },
     {
      "id": "laozi-230",
      "num": 230,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-230.mp3",
-     "youtubeId": "YOWm8FzPSEg",
+     "youtubeId": "fhRrJwybPJI",
      "durataSec": 0
     },
     {
      "id": "laozi-231",
      "num": 231,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-231.mp3",
-     "youtubeId": "J_YpIfc7va8",
+     "youtubeId": "MeKcZEm9_Ks",
      "durataSec": 0
     },
     {
      "id": "laozi-232",
      "num": 232,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-232.mp3",
-     "youtubeId": "Uy8AEVmT4A8",
+     "youtubeId": "eKU9N-7iI84",
      "durataSec": 0
     },
     {
      "id": "laozi-233",
      "num": 233,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-233.mp3",
-     "youtubeId": "NhIw-wry0pc",
+     "youtubeId": "hIZODog6Phg",
      "durataSec": 0
     },
     {
      "id": "laozi-234",
      "num": 234,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-234.mp3",
-     "youtubeId": "dRrI4ufaieM",
+     "youtubeId": "lArvr4yvAv8",
      "durataSec": 0
     },
     {
      "id": "laozi-235",
      "num": 235,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-235.mp3",
-     "youtubeId": "98ZHAmjHlYU",
+     "youtubeId": "Fzq-sxC5s9g",
      "durataSec": 0
     },
     {
      "id": "laozi-236",
      "num": 236,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-236.mp3",
-     "youtubeId": "LZ_LTKUn2WQ",
+     "youtubeId": "Z2fKtwE3-h0",
      "durataSec": 0
     },
     {
      "id": "laozi-237",
      "num": 237,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-237.mp3",
-     "youtubeId": "FjACwLv1WBI",
+     "youtubeId": "jPoMHAVU-AM",
      "durataSec": 0
     },
     {
      "id": "laozi-238",
      "num": 238,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-238.mp3",
-     "youtubeId": "aGEo-xd70C4",
+     "youtubeId": "F1wQcy0aX1w",
      "durataSec": 0
     },
     {
      "id": "laozi-239",
      "num": 239,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-239.mp3",
-     "youtubeId": "zbnrO-jwpFw",
+     "youtubeId": "Z713gViGMi4",
      "durataSec": 0
     },
     {
      "id": "laozi-240",
      "num": 240,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-240.mp3",
-     "youtubeId": "4epDwaKWcIs",
+     "youtubeId": "2H_eBj1I5ig",
      "durataSec": 0
     },
     {
      "id": "laozi-241",
      "num": 241,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-241.mp3",
-     "youtubeId": "zboydkUITrQ",
+     "youtubeId": "RouZfzbZAiA",
      "durataSec": 0
     },
     {
      "id": "laozi-242",
      "num": 242,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-242.mp3",
-     "youtubeId": "B0-CcroFmSQ",
+     "youtubeId": "9fFwk5vBL6g",
      "durataSec": 0
     },
     {
      "id": "laozi-243",
      "num": 243,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-243.mp3",
-     "youtubeId": "fhRrJwybPJI",
+     "youtubeId": "Xeppf3jVFPM",
      "durataSec": 0
     },
     {
      "id": "laozi-244",
      "num": 244,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-244.mp3",
-     "youtubeId": "MeKcZEm9_Ks",
+     "youtubeId": "Hq0ehrbvKos",
      "durataSec": 0
     },
     {
      "id": "laozi-245",
      "num": 245,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-245.mp3",
-     "youtubeId": "eKU9N-7iI84",
+     "youtubeId": "EEJ4GkhLOPA",
      "durataSec": 0
     },
     {
      "id": "laozi-246",
      "num": 246,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-246.mp3",
-     "youtubeId": "hIZODog6Phg",
+     "youtubeId": "F2-VO-iONoI",
      "durataSec": 0
     },
     {
      "id": "laozi-247",
      "num": 247,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-247.mp3",
-     "youtubeId": "lArvr4yvAv8",
+     "youtubeId": "S25rY4EBwd8",
      "durataSec": 0
     },
     {
      "id": "laozi-248",
      "num": 248,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-248.mp3",
-     "youtubeId": "Fzq-sxC5s9g",
+     "youtubeId": "3cVi5JUCHDc",
      "durataSec": 0
     },
     {
      "id": "laozi-249",
      "num": 249,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-249.mp3",
-     "youtubeId": "Z2fKtwE3-h0",
+     "youtubeId": "fWYqdDzI17c",
      "durataSec": 0
     },
     {
      "id": "laozi-250",
      "num": 250,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-250.mp3",
-     "youtubeId": "jPoMHAVU-AM",
+     "youtubeId": "_MI0vc8bfDI",
      "durataSec": 0
     },
     {
      "id": "laozi-251",
      "num": 251,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-251.mp3",
-     "youtubeId": "F1wQcy0aX1w",
+     "youtubeId": "Xe5zLw9S1KM",
      "durataSec": 0
     },
     {
      "id": "laozi-252",
      "num": 252,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-252.mp3",
-     "youtubeId": "Z713gViGMi4",
+     "youtubeId": "OQUKsbmJXJg",
      "durataSec": 0
     },
     {
      "id": "laozi-253",
      "num": 253,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-253.mp3",
-     "youtubeId": "2H_eBj1I5ig",
+     "youtubeId": "oAig6l5Z-0s",
      "durataSec": 0
     },
     {
      "id": "laozi-254",
      "num": 254,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-254.mp3",
-     "youtubeId": "RouZfzbZAiA",
+     "youtubeId": "QY8hUwDA5B8",
      "durataSec": 0
     },
     {
      "id": "laozi-255",
      "num": 255,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-255.mp3",
-     "youtubeId": "9fFwk5vBL6g",
+     "youtubeId": "VTG7iaPuyIc",
      "durataSec": 0
     },
     {
      "id": "laozi-256",
      "num": 256,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-256.mp3",
-     "youtubeId": "Xeppf3jVFPM",
+     "youtubeId": "0ZiItYxFh70",
      "durataSec": 0
     },
     {
      "id": "laozi-257",
      "num": 257,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-257.mp3",
-     "youtubeId": "Hq0ehrbvKos",
+     "youtubeId": "Tv75o1ct6n8",
      "durataSec": 0
     },
     {
      "id": "laozi-258",
      "num": 258,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-258.mp3",
-     "youtubeId": "EEJ4GkhLOPA",
+     "youtubeId": "AL3QWWvR1kY",
      "durataSec": 0
     },
     {
      "id": "laozi-259",
      "num": 259,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-259.mp3",
-     "youtubeId": "F2-VO-iONoI",
+     "youtubeId": "Jwk_VsGnC0s",
      "durataSec": 0
     },
     {
      "id": "laozi-260",
      "num": 260,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-260.mp3",
-     "youtubeId": "S25rY4EBwd8",
+     "youtubeId": "FngNBGp5ed0",
      "durataSec": 0
     },
     {
      "id": "laozi-261",
      "num": 261,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-261.mp3",
-     "youtubeId": "3cVi5JUCHDc",
+     "youtubeId": "IcAvr4s1j3Y",
      "durataSec": 0
     },
     {
      "id": "laozi-262",
      "num": 262,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-262.mp3",
-     "youtubeId": "fWYqdDzI17c",
+     "youtubeId": "-ASj-dwzNrY",
      "durataSec": 0
     },
     {
      "id": "laozi-263",
      "num": 263,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-263.mp3",
-     "youtubeId": "_MI0vc8bfDI",
+     "youtubeId": "g53NSoZr7GE",
      "durataSec": 0
     },
     {
      "id": "laozi-264",
      "num": 264,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-264.mp3",
-     "youtubeId": "Xe5zLw9S1KM",
+     "youtubeId": "vBPfYPhSBdY",
      "durataSec": 0
     },
     {
      "id": "laozi-265",
      "num": 265,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-265.mp3",
-     "youtubeId": "OQUKsbmJXJg",
+     "youtubeId": "2ZGBCpRWckM",
      "durataSec": 0
     },
     {
      "id": "laozi-266",
      "num": 266,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-266.mp3",
-     "youtubeId": "oAig6l5Z-0s",
+     "youtubeId": "goy5zqR5VIg",
      "durataSec": 0
     },
     {
      "id": "laozi-267",
      "num": 267,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-267.mp3",
-     "youtubeId": "QY8hUwDA5B8",
+     "youtubeId": "gDgGzxAaXGE",
      "durataSec": 0
     },
     {
      "id": "laozi-268",
      "num": 268,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-268.mp3",
-     "youtubeId": "VTG7iaPuyIc",
+     "youtubeId": "q1U03AdbiOk",
      "durataSec": 0
     },
     {
      "id": "laozi-269",
      "num": 269,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-269.mp3",
-     "youtubeId": "0ZiItYxFh70",
+     "youtubeId": "q6xhp2mJdsA",
      "durataSec": 0
     },
     {
      "id": "laozi-270",
      "num": 270,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-270.mp3",
-     "youtubeId": "Tv75o1ct6n8",
+     "youtubeId": "3P97XFL2P_g",
      "durataSec": 0
     },
     {
      "id": "laozi-271",
      "num": 271,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-271.mp3",
-     "youtubeId": "AL3QWWvR1kY",
+     "youtubeId": "FK3E5Fzsegc",
      "durataSec": 0
     },
     {
      "id": "laozi-272",
      "num": 272,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-272.mp3",
-     "youtubeId": "Jwk_VsGnC0s",
+     "youtubeId": "FwKfxtMqgWU",
      "durataSec": 0
     },
     {
      "id": "laozi-273",
      "num": 273,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-273.mp3",
-     "youtubeId": "FngNBGp5ed0",
+     "youtubeId": "HIIQdU2nmmw",
      "durataSec": 0
     },
     {
      "id": "laozi-274",
      "num": 274,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-274.mp3",
-     "youtubeId": "IcAvr4s1j3Y",
+     "youtubeId": "9dcp8jhUv7c",
      "durataSec": 0
     },
     {
      "id": "laozi-275",
      "num": 275,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-275.mp3",
-     "youtubeId": "-ASj-dwzNrY",
+     "youtubeId": "kQfrzAS8oS0",
      "durataSec": 0
     },
     {
      "id": "laozi-276",
      "num": 276,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-276.mp3",
-     "youtubeId": "g53NSoZr7GE",
+     "youtubeId": "rXgs2UpXu_I",
      "durataSec": 0
     },
     {
      "id": "laozi-277",
      "num": 277,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-277.mp3",
-     "youtubeId": "vBPfYPhSBdY",
+     "youtubeId": "AHQZN_65570",
      "durataSec": 0
     },
     {
      "id": "laozi-278",
      "num": 278,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-278.mp3",
-     "youtubeId": "2ZGBCpRWckM",
+     "youtubeId": "hkjviDOaxDE",
      "durataSec": 0
     },
     {
      "id": "laozi-279",
      "num": 279,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-279.mp3",
-     "youtubeId": "goy5zqR5VIg",
+     "youtubeId": "mc3IBcShmFE",
      "durataSec": 0
     },
     {
      "id": "laozi-280",
      "num": 280,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-280.mp3",
-     "youtubeId": "gDgGzxAaXGE",
+     "youtubeId": "QPlDFQEHrEA",
      "durataSec": 0
     },
     {
      "id": "laozi-281",
      "num": 281,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-281.mp3",
-     "youtubeId": "q1U03AdbiOk",
+     "youtubeId": "uTyolQ5LJ20",
      "durataSec": 0
     },
     {
      "id": "laozi-282",
      "num": 282,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-282.mp3",
-     "youtubeId": "q6xhp2mJdsA",
+     "youtubeId": "71YjfSpoqEY",
      "durataSec": 0
     },
     {
      "id": "laozi-283",
      "num": 283,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-283.mp3",
-     "youtubeId": "3P97XFL2P_g",
+     "youtubeId": "6VHsn4tdz_Q",
      "durataSec": 0
     },
     {
      "id": "laozi-284",
      "num": 284,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-284.mp3",
-     "youtubeId": "FK3E5Fzsegc",
+     "youtubeId": "dUyZRAbuA64",
      "durataSec": 0
     },
     {
      "id": "laozi-285",
      "num": 285,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-285.mp3",
-     "youtubeId": "FwKfxtMqgWU",
+     "youtubeId": "FEK0o82ifAg",
      "durataSec": 0
     },
     {
      "id": "laozi-286",
      "num": 286,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-286.mp3",
-     "youtubeId": "HIIQdU2nmmw",
+     "youtubeId": "cgRgGPldnyU",
      "durataSec": 0
     },
     {
      "id": "laozi-287",
      "num": 287,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-287.mp3",
-     "youtubeId": "9dcp8jhUv7c",
+     "youtubeId": "e1keAluGREE",
      "durataSec": 0
     },
     {
      "id": "laozi-288",
      "num": 288,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-288.mp3",
-     "youtubeId": "kQfrzAS8oS0",
+     "youtubeId": "_jpqj9zrdWk",
      "durataSec": 0
     },
     {
      "id": "laozi-289",
      "num": 289,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-289.mp3",
-     "youtubeId": "rXgs2UpXu_I",
+     "youtubeId": "hstnAcsWJ9c",
      "durataSec": 0
     },
     {
      "id": "laozi-290",
      "num": 290,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-290.mp3",
-     "youtubeId": "AHQZN_65570",
+     "youtubeId": "3bCVEHNH3R4",
      "durataSec": 0
     },
     {
      "id": "laozi-291",
      "num": 291,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-291.mp3",
-     "youtubeId": "hkjviDOaxDE",
+     "youtubeId": "DWcGoKOu3Oo",
      "durataSec": 0
     },
     {
      "id": "laozi-292",
      "num": 292,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-292.mp3",
-     "youtubeId": "mc3IBcShmFE",
+     "youtubeId": "sqspbSfHizI",
      "durataSec": 0
     },
     {
      "id": "laozi-293",
      "num": 293,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-293.mp3",
-     "youtubeId": "QPlDFQEHrEA",
+     "youtubeId": "YppLhZIB7AI",
      "durataSec": 0
     },
     {
      "id": "laozi-294",
      "num": 294,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-294.mp3",
-     "youtubeId": "uTyolQ5LJ20",
+     "youtubeId": "sZgZoEbjRDQ",
      "durataSec": 0
     },
     {
      "id": "laozi-295",
      "num": 295,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-295.mp3",
-     "youtubeId": "71YjfSpoqEY",
+     "youtubeId": "mX0Qp-LUseo",
      "durataSec": 0
     },
     {
      "id": "laozi-296",
      "num": 296,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-296.mp3",
-     "youtubeId": "6VHsn4tdz_Q",
+     "youtubeId": "PvJI_mH-9vg",
      "durataSec": 0
     },
     {
      "id": "laozi-297",
      "num": 297,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-297.mp3",
-     "youtubeId": "dUyZRAbuA64",
+     "youtubeId": "L3rfP63CzIc",
      "durataSec": 0
     },
     {
      "id": "laozi-298",
      "num": 298,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-298.mp3",
-     "youtubeId": "FEK0o82ifAg",
+     "youtubeId": "nj77kg8DNDw",
      "durataSec": 0
     },
     {
      "id": "laozi-299",
      "num": 299,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-299.mp3",
-     "youtubeId": "cgRgGPldnyU",
+     "youtubeId": "hg-Gg4pBBdE",
      "durataSec": 0
     },
     {
      "id": "laozi-300",
      "num": 300,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-300.mp3",
-     "youtubeId": "e1keAluGREE",
+     "youtubeId": "x1ERT84IHdo",
      "durataSec": 0
     },
     {
      "id": "laozi-301",
      "num": 301,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-301.mp3",
-     "youtubeId": "_jpqj9zrdWk",
+     "youtubeId": "VsnHROvFnms",
      "durataSec": 0
     },
     {
      "id": "laozi-302",
      "num": 302,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-302.mp3",
-     "youtubeId": "hstnAcsWJ9c",
+     "youtubeId": "oWXvLRlGryo",
      "durataSec": 0
     },
     {
      "id": "laozi-303",
      "num": 303,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-303.mp3",
-     "youtubeId": "3bCVEHNH3R4",
+     "youtubeId": "6W23UqJZ3fM",
      "durataSec": 0
     },
     {
      "id": "laozi-304",
      "num": 304,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-304.mp3",
-     "youtubeId": "DWcGoKOu3Oo",
+     "youtubeId": "ZeJTY2bWpPA",
      "durataSec": 0
     },
     {
      "id": "laozi-305",
      "num": 305,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-305.mp3",
-     "youtubeId": "sqspbSfHizI",
+     "youtubeId": "qCGp4h-qNLU",
      "durataSec": 0
     },
     {
      "id": "laozi-306",
      "num": 306,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-306.mp3",
-     "youtubeId": "YppLhZIB7AI",
+     "youtubeId": "OmPpFZV874I",
      "durataSec": 0
     },
     {
      "id": "laozi-307",
      "num": 307,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-307.mp3",
-     "youtubeId": "sZgZoEbjRDQ",
+     "youtubeId": "i8tYBXppMyI",
      "durataSec": 0
     },
     {
      "id": "laozi-308",
      "num": 308,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-308.mp3",
-     "youtubeId": "mX0Qp-LUseo",
+     "youtubeId": "p1e0ESFZyiM",
      "durataSec": 0
     },
     {
      "id": "laozi-309",
      "num": 309,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-309.mp3",
-     "youtubeId": "PvJI_mH-9vg",
+     "youtubeId": "wEi0PxyWAQc",
      "durataSec": 0
     },
     {
      "id": "laozi-310",
      "num": 310,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-310.mp3",
-     "youtubeId": "L3rfP63CzIc",
+     "youtubeId": "CNuWC1F2La8",
      "durataSec": 0
     },
     {
      "id": "laozi-311",
      "num": 311,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-311.mp3",
-     "youtubeId": "nj77kg8DNDw",
+     "youtubeId": "7HFqN_NKvGw",
      "durataSec": 0
     },
     {
      "id": "laozi-312",
      "num": 312,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-312.mp3",
-     "youtubeId": "hg-Gg4pBBdE",
+     "youtubeId": "sRNzUgqqDyc",
      "durataSec": 0
     },
     {
      "id": "laozi-313",
      "num": 313,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-313.mp3",
-     "youtubeId": "x1ERT84IHdo",
+     "youtubeId": "A461xks6wJA",
      "durataSec": 0
     },
     {
      "id": "laozi-314",
      "num": 314,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-314.mp3",
-     "youtubeId": "VsnHROvFnms",
+     "youtubeId": "Xu_KqmVUYdg",
      "durataSec": 0
     },
     {
      "id": "laozi-315",
      "num": 315,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-315.mp3",
-     "youtubeId": "oWXvLRlGryo",
+     "youtubeId": "TvhJ-wgZvUc",
      "durataSec": 0
     },
     {
      "id": "laozi-316",
      "num": 316,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-316.mp3",
-     "youtubeId": "6W23UqJZ3fM",
+     "youtubeId": "6KDXnc3d0Ps",
      "durataSec": 0
     },
     {
      "id": "laozi-317",
      "num": 317,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-317.mp3",
-     "youtubeId": "ZeJTY2bWpPA",
+     "youtubeId": "U3OAJuVYaB4",
      "durataSec": 0
     },
     {
      "id": "laozi-318",
      "num": 318,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-318.mp3",
-     "youtubeId": "qCGp4h-qNLU",
+     "youtubeId": "Zw1ZeLviYiI",
      "durataSec": 0
     },
     {
      "id": "laozi-319",
      "num": 319,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-319.mp3",
-     "youtubeId": "OmPpFZV874I",
+     "youtubeId": "P-eZjdTcq10",
      "durataSec": 0
     },
     {
      "id": "laozi-320",
      "num": 320,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-320.mp3",
-     "youtubeId": "i8tYBXppMyI",
+     "youtubeId": "zct2HiVpBDI",
      "durataSec": 0
     },
     {
      "id": "laozi-321",
      "num": 321,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-321.mp3",
-     "youtubeId": "p1e0ESFZyiM",
+     "youtubeId": "yHifpldbAEk",
      "durataSec": 0
     },
     {
      "id": "laozi-322",
      "num": 322,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
+     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-322.mp3",
-     "youtubeId": "wEi0PxyWAQc",
+     "youtubeId": "AXpez3NTmE0",
      "durataSec": 0
     },
     {
      "id": "laozi-323",
      "num": 323,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
+     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-323.mp3",
-     "youtubeId": "CNuWC1F2La8",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-324",
-     "num": 324,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-324.mp3",
-     "youtubeId": "7HFqN_NKvGw",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-325",
-     "num": 325,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-325.mp3",
-     "youtubeId": "sRNzUgqqDyc",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-326",
-     "num": 326,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-326.mp3",
-     "youtubeId": "A461xks6wJA",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-327",
-     "num": 327,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-327.mp3",
-     "youtubeId": "Xu_KqmVUYdg",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-328",
-     "num": 328,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-328.mp3",
-     "youtubeId": "TvhJ-wgZvUc",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-329",
-     "num": 329,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-329.mp3",
-     "youtubeId": "6KDXnc3d0Ps",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-330",
-     "num": 330,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-330.mp3",
-     "youtubeId": "U3OAJuVYaB4",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-331",
-     "num": 331,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-331.mp3",
-     "youtubeId": "Zw1ZeLviYiI",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-332",
-     "num": 332,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-332.mp3",
-     "youtubeId": "P-eZjdTcq10",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-333",
-     "num": 333,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 2: Le origini dell'opera, parte prima: il tempo in cui nacque il Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-333.mp3",
-     "youtubeId": "zct2HiVpBDI",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-334",
-     "num": 334,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 3: La svolta del Tao Te Ching, il libro nato sulla soglia dell'addio",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-334.mp3",
-     "youtubeId": "yHifpldbAEk",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-335",
-     "num": 335,
-     "titolo": "Laozi - Il Tao Te Ching - Cap. 4: Le origini, parte terza: la diffusione, i lettori e la lunga vita",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-335.mp3",
-     "youtubeId": "AXpez3NTmE0",
-     "durataSec": 0
-    },
-    {
-     "id": "laozi-336",
-     "num": 336,
-     "titolo": "Il wu wei, agire senza forzare, il cuore segreto del Tao",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/laozi-cap-336.mp3",
      "youtubeId": "tZKy7uvPIBE",
      "durataSec": 0
     }
@@ -15315,41 +15211,41 @@
     {
      "id": "huineng-14",
      "num": 14,
-     "titolo": "La pratica nella vita di oggi",
+     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-14.mp3",
-     "youtubeId": "sP-JHD-u3o0",
+     "youtubeId": "9JjZ6IDnhgA",
      "durataSec": 0
     },
     {
      "id": "huineng-15",
      "num": 15,
-     "titolo": "I segni e i frutti, cosa cambia nell'esperienza",
+     "titolo": "Storie, esempi e applicazioni concrete",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-15.mp3",
-     "youtubeId": "9JjZ6IDnhgA",
+     "youtubeId": "dTPR9SR-U_I",
      "durataSec": 0
     },
     {
      "id": "huineng-16",
      "num": 16,
-     "titolo": "Storie, esempi e applicazioni concrete",
+     "titolo": "Sciogliere la dualita, osservatore e osservato",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-16.mp3",
-     "youtubeId": "dTPR9SR-U_I",
+     "youtubeId": "4Ct3QYQ28Xk",
      "durataSec": 0
     },
     {
      "id": "huineng-17",
      "num": 17,
-     "titolo": "Sciogliere la dualita, osservatore e osservato",
+     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-17.mp3",
-     "youtubeId": "4Ct3QYQ28Xk",
+     "youtubeId": "-r5gTOyeQzg",
      "durataSec": 0
     },
     {
      "id": "huineng-18",
      "num": 18,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
+     "titolo": "La pratica nella vita di oggi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-18.mp3",
-     "youtubeId": "-r5gTOyeQzg",
+     "youtubeId": "sP-JHD-u3o0",
      "durataSec": 0
     },
     {
@@ -15366,110 +15262,6 @@
      "titolo": "L'eredita di Huineng e cosa ci lascia oggi",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-20.mp3",
      "youtubeId": "xHem325JZtE",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-21",
-     "num": 21,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-21.mp3",
-     "youtubeId": "7UJPdDnmJkI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-22",
-     "num": 22,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-22.mp3",
-     "youtubeId": "LtTLDwFxTE0",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-23",
-     "num": 23,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-23.mp3",
-     "youtubeId": "es1g0cWqH6M",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-24",
-     "num": 24,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-24.mp3",
-     "youtubeId": "0MaFpmb7Vt4",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-25",
-     "num": 25,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-25.mp3",
-     "youtubeId": "dZshl8WUOTw",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-26",
-     "num": 26,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-26.mp3",
-     "youtubeId": "3i9CdAN6cCA",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-27",
-     "num": 27,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-27.mp3",
-     "youtubeId": "IVmMTDv0tdY",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-28",
-     "num": 28,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-28.mp3",
-     "youtubeId": "j9ecfOt7Auk",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-29",
-     "num": 29,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-29.mp3",
-     "youtubeId": "OX1geUoB7EE",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-30",
-     "num": 30,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-30.mp3",
-     "youtubeId": "MY3azUh1aHI",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-31",
-     "num": 31,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-31.mp3",
-     "youtubeId": "eAaFI4vBeAk",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-32",
-     "num": 32,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 6: Il cuore dell'insegnamento, parte prima: la natura",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-32.mp3",
-     "youtubeId": "YWuFHpQfE18",
-     "durataSec": 0
-    },
-    {
-     "id": "huineng-33",
-     "num": 33,
-     "titolo": "Huineng - Il Sutra del Sesto Patriarca - Cap. 17: Fermare il pensiero discorsivo, il silenzio oltre",
-     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/huineng-cap-33.mp3",
-     "youtubeId": "6QADlLT8KDg",
      "durataSec": 0
     }
    ]
@@ -25503,6 +25295,70 @@
      "num": 732,
      "titolo": "The Thousands and Evil",
      "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-732.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-733",
+     "num": 733,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-733.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-734",
+     "num": 734,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-734.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-735",
+     "num": 735,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-735.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-736",
+     "num": 736,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-736.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-737",
+     "num": 737,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-737.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-738",
+     "num": 738,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-738.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-739",
+     "num": 739,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-739.mp3",
+     "youtubeId": "Pf6QOP558aU",
+     "durataSec": 0
+    },
+    {
+     "id": "dhammapada-en-740",
+     "num": 740,
+     "titolo": "The Thousands and Evil",
+     "audioUrl": "https://github.com/AliDarSilenzio/alidar-audio/releases/download/audio-v1/dhammapada-en-cap-740.mp3",
      "youtubeId": "Pf6QOP558aU",
      "durataSec": 0
     }
